@@ -85,7 +85,7 @@ jobs:
         git config --local user.name "Love4vn"
         
         # Add only specific files (not workflow files)
-        git add IPTV.m3u VTV.m3u VCTV.m3u S_check.m3u EPG.xml README.md
+        git add IPTV.m3u EPG.xml
         
         # Check if there are changes
         if git diff --staged --quiet; then
