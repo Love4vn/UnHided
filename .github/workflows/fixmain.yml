@@ -6,6 +6,8 @@ on:
   schedule:
     - cron: '*/31 * * * *'
   workflow_dispatch:
+  repository_dispatch:
+    types: [trigger-Auto-update-IPTV]
 
 # Add permissions
 permissions:
