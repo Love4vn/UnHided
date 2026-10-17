@@ -2273,9 +2273,49 @@
     <desc>Joaquin Buckley v Mike Malott. Coverage of the welterweight bout from Rogers Place in Edmonton, Canada, plus the undercard for UFC Fight Night 291.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="400477" start="20261018103000 +0700" stop="20261019000000 +0700">
+  <programme channel="400477" start="20261018103000 +0700" stop="20261018123000 +0700">
     <title lang="zh">Live: AFLW</title>
     <desc>GWS Giants Women v Hawthorn Hawks Women (Bounce-up 4.35am). Coverage of the match from Henson Park in Sydney.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400477" start="20261018123000 +0700" stop="20261018163000 +0700">
+    <title lang="zh">Live: UCI Track Cycling World Championship</title>
+    <desc>Further coverage of the fifth day of the event, which takes place in Shanghai, China.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400477" start="20261018163000 +0700" stop="20261018173000 +0700">
+    <title lang="zh">International T20 Cricket Highlights</title>
+    <desc>India v West Indies. Action from the fifth and final T20 in the series from M Chinnaswamy Stadium, Bengaluru.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400477" start="20261018173000 +0700" stop="20261018193000 +0700">
+    <title lang="zh">Live: Women's Cycling Pro Series</title>
+    <desc>The Eneco Tour. Coverage of the fifth and final stage of the race, a 78.2km route around Arnhem.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400477" start="20261018193000 +0700" stop="20261018210000 +0700">
+    <title lang="zh">Live: Men's Cycling Pro Series</title>
+    <desc>The Eneco Tour. Coverage of the fifth and final stage of the race, a 149.2km route around Arnhem.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400477" start="20261018210000 +0700" stop="20261018220000 +0700">
+    <title lang="zh">Live: Men's Cycling Pro Series</title>
+    <desc>The Venetia Classic. Coverage of the one-day race in Italy.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400477" start="20261018220000 +0700" stop="20261018221500 +0700">
+    <title lang="zh">Groundbreaking</title>
+    <desc>A look back at memorable matches played at Goodison Park.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400477" start="20261018221500 +0700" stop="20261018224500 +0700">
+    <title lang="zh">The Breakdown</title>
+    <desc>England and Bayern Munich star Harry Kane talks through his best ever season, where he scored an unbelievable 73 goals for club and country.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400477" start="20261018224500 +0700" stop="20261019000000 +0700">
+    <title lang="zh">Live: Serie A</title>
+    <desc>AC Milan v Atalanta (Kick-off 5.00pm). Coverage of the Italian top-flight match from San Siro.</desc>
     <date>2026-10-18</date>
   </programme>
 <channel id="400480">
@@ -2452,9 +2492,69 @@
     <desc>A look back at the best action from the MLB.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="400480" start="20261018110000 +0700" stop="20261019000000 +0700">
+  <programme channel="400480" start="20261018110000 +0700" stop="20261018113000 +0700">
     <title lang="zh">The Breakdown</title>
     <desc>England and Bayern Munich star Harry Kane talks through his best ever season, where he scored an unbelievable 73 goals for club and country.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018113000 +0700" stop="20261018130000 +0700">
+    <title lang="zh">Live: Men's Cycling World Tour</title>
+    <desc>Coverage of the sixth stage of the Tour of Guangxi.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018130000 +0700" stop="20261018150000 +0700">
+    <title lang="zh">Live: AFLW</title>
+    <desc>Fremantle Dockers Women v St Kilda Saints Women (Bounce-up 7.05am). Coverage of the match from Cockburn ARC Oval in Perth.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018150000 +0700" stop="20261018153000 +0700">
+    <title lang="zh">British Superbikes</title>
+    <desc>Action from race one of the 11th round of the season at Brands Hatch Grand Prix Circuit.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018153000 +0700" stop="20261018160000 +0700">
+    <title lang="zh">World Superbikes</title>
+    <desc>Action from Superbike race one at Circuito de Jerez in Spain.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018160000 +0700" stop="20261018164500 +0700">
+    <title lang="zh">Live: World Superbikes</title>
+    <desc>Coverage from the Superbike Superpole race, which takes place at Circuito de Jerez in Spain.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018164500 +0700" stop="20261018174500 +0700">
+    <title lang="zh">Live: Women's Circuit Racing World Championship</title>
+    <desc>Coverage from the second race at Circuito de Jerez in Spain, where the sixth and final round of the season takes place.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018174500 +0700" stop="20261018184500 +0700">
+    <title lang="zh">Live: World Superbikes</title>
+    <desc>Coverage from the Sportbike second race, which takes place at Circuito de Jerez in Spain.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018184500 +0700" stop="20261018200000 +0700">
+    <title lang="zh">Live: British Superbikes</title>
+    <desc>Coverage from the second day of the 11th and final round of the season, which takes place at Brands Hatch Grand Prix Circuit.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018200000 +0700" stop="20261018211500 +0700">
+    <title lang="zh">Live: World Superbikes</title>
+    <desc>Coverage from the Superbike second race, which takes place at Circuito de Jerez in Spain.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018211500 +0700" stop="20261018230000 +0700">
+    <title lang="zh">Live: British Superbikes</title>
+    <desc>Coverage from the second day of the 11th and final round of the season, which takes place at Brands Hatch Grand Prix Circuit.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018230000 +0700" stop="20261018233000 +0700">
+    <title lang="zh">British Superbikes</title>
+    <desc>Coverage of the National Sportbike Race at Brands Hatch Grand Prix Circuit.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400480" start="20261018233000 +0700" stop="20261019000000 +0700">
+    <title lang="zh">Men's Cycling World Tour</title>
+    <desc>Action from stage six of the Tour of Guangxi.</desc>
     <date>2026-10-18</date>
   </programme>
 <channel id="400479">
@@ -2626,9 +2726,34 @@
     <desc>A look back at India v West Indies in the fifth and final T20 of the series.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="400479" start="20261018123000 +0700" stop="20261019000000 +0700">
+  <programme channel="400479" start="20261018123000 +0700" stop="20261018124500 +0700">
     <title lang="zh">TNT Sports Cricket Reload</title>
     <desc>India Women v Zimbabwe Women in the first T20.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400479" start="20261018124500 +0700" stop="20261018131500 +0700">
+    <title lang="zh">Endurance Uncovered: Racing for Excellence</title>
+    <desc>A special look at the World Endurance Championship, a global series of races that test the limits of both drivers and vehicles.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400479" start="20261018131500 +0700" stop="20261018134500 +0700">
+    <title lang="zh">World Superbikes</title>
+    <desc>Action from Superbike race one at Circuito de Jerez in Spain.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400479" start="20261018134500 +0700" stop="20261018163000 +0700">
+    <title lang="zh">Live: Marathon</title>
+    <desc>Coverage of the Amsterdam marathon.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400479" start="20261018163000 +0700" stop="20261018233000 +0700">
+    <title lang="zh">Live FIA World Endurance Championship</title>
+    <desc>Coverage of the 6 Hours of Barcelona race, which serves as the seventh round of the season.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400479" start="20261018233000 +0700" stop="20261019000000 +0700">
+    <title lang="zh">Live: IFSC Climbing World Series</title>
+    <desc>Coverage from the women's boulder semi-final, which takes place in Salt Lake City, USA.</desc>
     <date>2026-10-18</date>
   </programme>
 <channel id="400478">
@@ -2795,9 +2920,59 @@
     <desc>Action from the rounds 10, 11 and 12 at Inje Speedium in South Korea.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="400478" start="20261018120000 +0700" stop="20261019000000 +0700">
+  <programme channel="400478" start="20261018120000 +0700" stop="20261018121500 +0700">
     <title lang="zh">FA Cup: The People's Story - Crystal Palace</title>
     <desc>A documentary looking at Crystal Palace's rise from near-extinction in 2010 to a fairytale cup run 15 years later.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400478" start="20261018121500 +0700" stop="20261018143000 +0700">
+    <title lang="zh">Live: A-League Women</title>
+    <desc>Sydney FC Women v Adelaide United Women (Kick-off 6.30am). Coverage of the match at Sydney Olympic Park Athletic Centre.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400478" start="20261018143000 +0700" stop="20261018160000 +0700">
+    <title lang="zh">Premier League</title>
+    <desc>Everton v Chelsea.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400478" start="20261018160000 +0700" stop="20261018180000 +0700">
+    <title lang="zh">Live: Northern Ireland Open Snooker</title>
+    <desc>Coverage of the first round on the first day of the tournament, which takes place at Waterfront Hall in Belfast.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400478" start="20261018180000 +0700" stop="20261018181500 +0700">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>A look back at India v West Indies in the fifth and final T20 of the series.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400478" start="20261018181500 +0700" stop="20261018183000 +0700">
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    <desc>India Women v Zimbabwe Women in the first T20.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400478" start="20261018183000 +0700" stop="20261018190000 +0700">
+    <title lang="zh">MLB Highlights</title>
+    <desc>Action from Major League Baseball.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400478" start="20261018190000 +0700" stop="20261018210000 +0700">
+    <title lang="zh">Live: Northern Ireland Open Snooker</title>
+    <desc>Further coverage of the first round on the first day of the tournament, which takes place at Waterfront Hall in Belfast.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400478" start="20261018210000 +0700" stop="20261018230000 +0700">
+    <title lang="zh">Live: Northern Ireland Open Snooker</title>
+    <desc>Further coverage of the first round on the first day of the tournament, which takes place at Waterfront Hall in Belfast.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400478" start="20261018230000 +0700" stop="20261018233000 +0700">
+    <title lang="zh">TCR World Tour Review</title>
+    <desc>Action from the rounds 10, 11 and 12 at Inje Speedium in South Korea.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="400478" start="20261018233000 +0700" stop="20261019000000 +0700">
+    <title lang="zh">Ultimate Pool</title>
+    <desc>Action from week one and the first semi-final of the Ultimate Pool League.</desc>
     <date>2026-10-18</date>
   </programme>
 <channel id="219100">
@@ -2894,9 +3069,59 @@
     <desc>A look at the world of extreme performances in action and outdoor sports.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="219100" start="20261018053000 +0700" stop="20261019000000 +0700">
+  <programme channel="219100" start="20261018053000 +0700" stop="20261018073000 +0700">
     <title lang="zh">Champions Cup</title>
     <desc>Stade Rochelais v Lions.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219100" start="20261018073000 +0700" stop="20261018080000 +0700">
+    <title lang="zh">NHL: This is Hockey</title>
+    <desc>A look at the growth of ice hockey in Brazil.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219100" start="20261018080000 +0700" stop="20261018090000 +0700">
+    <title lang="zh">NHL Specials</title>
+    <desc>A look back at the 2026 Stanley Cup.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219100" start="20261018090000 +0700" stop="20261018120000 +0700">
+    <title lang="zh">Live NHL Ice Hockey</title>
+    <desc>Utah Mammoth v Edmonton Oilers (Face-off 3.00am). Coverage of the Western Conference match from Delta Center.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219100" start="20261018120000 +0700" stop="20261018123000 +0700">
+    <title lang="zh">Michelin Le Mans Cup</title>
+    <desc>Action from Portimao.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219100" start="20261018123000 +0700" stop="20261018143000 +0700">
+    <title lang="zh">LaLiga</title>
+    <desc>Espanyol v Atlético Madrid.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219100" start="20261018143000 +0700" stop="20261018163000 +0700">
+    <title lang="zh">LaLiga</title>
+    <desc>Villarreal v Elche.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219100" start="20261018163000 +0700" stop="20261018183000 +0700">
+    <title lang="zh">Champions Cup</title>
+    <desc>Connacht Rugby v Saracens.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219100" start="20261018183000 +0700" stop="20261018210500 +0700">
+    <title lang="zh">Live Champions Cup</title>
+    <desc>Section Paloise v Leicester Tigers (Kick-off 1.00pm). Coverage of the Pool One match at Stade du Hameau.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219100" start="20261018210500 +0700" stop="20261018234500 +0700">
+    <title lang="zh">Live Champions Cup</title>
+    <desc>Stade Toulousain v Exeter Chiefs (Kick-off 3.15pm). Coverage of the Pool Two match at Stadium de Toulouse.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219100" start="20261018234500 +0700" stop="20261019000000 +0700">
+    <title lang="zh">Live LaLiga</title>
+    <desc>Malaga v Real Sociedad. Coverage of the match at Estadio La Rosaleda, joining 15 minutes after kick-off.</desc>
     <date>2026-10-18</date>
   </programme>
 <channel id="219104">
@@ -3003,9 +3228,79 @@
     <desc>News and highlights from the NHL.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="219104" start="20261018060000 +0700" stop="20261019000000 +0700">
+  <programme channel="219104" start="20261018060000 +0700" stop="20261018090000 +0700">
     <title lang="zh">Live NHL Ice Hockey</title>
     <desc>Detroit Red Wings v San Jose Sharks (Face-off 12.00am). Coverage of the inter-conference match at Little Caesars Arena.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018090000 +0700" stop="20261018091000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Barcelona v Getafe.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018091000 +0700" stop="20261018092000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Real Betis v Osasuna.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018092000 +0700" stop="20261018093000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Racing Santander v Valencia.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018093000 +0700" stop="20261018140000 +0700">
+    <title lang="zh">Live Women's Rugby League World Cup</title>
+    <desc>New Zealand v Fiji (Kick-off 3.50am). Coverage of the Pool B match at McDonald Jones Stadium in Newcastle, Australia.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018140000 +0700" stop="20261018141000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Malaga v Espanyol.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018141000 +0700" stop="20261018142500 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Alaves v Atlético Madrid.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018142500 +0700" stop="20261018145500 +0700">
+    <title lang="zh">Temples of Sport</title>
+    <desc>Iconic sporting venues from around the globe.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018145500 +0700" stop="20261018165000 +0700">
+    <title lang="zh">Champions Cup</title>
+    <desc>ASM Clermont Auvergne v Leinster Rugby.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018165000 +0700" stop="20261018184500 +0700">
+    <title lang="zh">Champions Cup</title>
+    <desc>Bath Rugby v Montpellier Hérault Rugby.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018184500 +0700" stop="20261018211500 +0700">
+    <title lang="zh">Live EPCR Challenge Cup</title>
+    <desc>Harlequins v RC Vannes (Kick-off 1.00pm). Coverage of the Pool 3 match from Twickenham Stoop.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018211500 +0700" stop="20261018213000 +0700">
+    <title lang="zh">LaLiga Match Highlights</title>
+    <desc>Elche v Celta Vigo.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018213000 +0700" stop="20261018220000 +0700">
+    <title lang="zh">Top 14 Rugby Union Highlights</title>
+    <desc>Action from the sixth round of fixtures.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018220000 +0700" stop="20261018230000 +0700">
+    <title lang="zh">URC in 60</title>
+    <desc>Action from the third round of United Rugby Championship fixtures.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="219104" start="20261018230000 +0700" stop="20261019000000 +0700">
+    <title lang="zh">Live Champions Cup</title>
+    <desc>Northampton Saints v Cardiff Rugby (Kick-off 5.30pm). Coverage of the Pool 4 match from DPD Stadium at Franklin's Gardens.</desc>
     <date>2026-10-18</date>
   </programme>
 <channel id="399506">
@@ -3774,10 +4069,25 @@
     <desc>When a young mother and her newborn daughter vanish from Austin, detectives and FBI agents rush in to bring them home.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="369719" start="20261018214500 +0700" stop="20261019000000 +0700">
+  <programme channel="369719" start="20261018214500 +0700" stop="20261018223000 +0700">
     <title lang="zh">A Plan To Kill S2</title>
     <desc>When police respond to a domestic disturbance in a Bay Area suburb, it's unclear who on scene was the intended victim.</desc>
     <date>2026-10-18</date>
+  </programme>
+  <programme channel="369719" start="20261018223000 +0700" stop="20261018231500 +0700">
+    <title lang="zh">A Plan To Kill S2</title>
+    <desc>When a successful Palm Springs art dealer goes missing, the search leads detectives through a complex web of charismatic conmen.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369719" start="20261018231500 +0700" stop="20261019000000 +0700">
+    <title lang="zh">A Plan To Kill S2</title>
+    <desc>When a beloved mom is murdered in her suburban Connecticut basement, detectives pursue a camo-clad intruder.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369719" start="20261019000000 +0700" stop="20261020000000 +0700">
+    <title lang="zh">A Plan To Kill S2</title>
+    <desc>A young woman vanishes from small-town Oregon after heading to a Halloween party, leaving her family devastated and detectives hitting dead ends.</desc>
+    <date>2026-10-19</date>
   </programme>
 <channel id="517640">
     <display-name lang="Malaysia">Rock Action</display-name>
@@ -4823,9 +5133,19 @@
     <desc>Harry, Ron and Hermione leave Hogwarts behind on a mission to destroy the Horcruxes, the secrets to Voldemort's power and immortality.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="369840" start="20261018202000 +0700" stop="20261019000000 +0700">
+  <programme channel="369840" start="20261018202000 +0700" stop="20261018220000 +0700">
     <title lang="zh">FIVE NIGHTS AT FREDDY'S 2</title>
     <desc>After shattering the box office with a global gross of $292M and becoming Blumhouse's highest-grossing film ever, Freddy Fazbear's Pizzeria is reopening its doors. Director Emma Tammi returns to helm the eagerly anticipated sequel, promising a chilling new chapter with a bone-chilling warning: Anyone can survive five nights, this time, there will be no second chances….</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369840" start="20261018220000 +0700" stop="20261018233000 +0700">
+    <title lang="zh">KIMI</title>
+    <desc>An agoraphobic Seattle tech worker uncovers evidence of a crime. In order to get involved, she will have to do the thing she fears most — leave her apartment and step out onto the streets.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369840" start="20261018233000 +0700" stop="20261019000000 +0700">
+    <title lang="zh">BLACK PHONE 2</title>
+    <desc>Hear the chilling ring of the Black Phone once more with the sequel to the horror phenomenon from director Scott Derrickson.</desc>
     <date>2026-10-18</date>
   </programme>
 <channel id="369786">
@@ -5307,9 +5627,29 @@
     <desc>A bluebird named Beatrice offers to guide Wirt and Greg to Adelaide of the Pasture. Wirt refuses her help leaving them in trouble.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="369786" start="20261018224700 +0700" stop="20261019000000 +0700">
+  <programme channel="369786" start="20261018224700 +0700" stop="20261018225800 +0700">
     <title lang="zh">OVER THE GARDEN WALL S1</title>
     <desc>Wirt, Greg, and Beatrice get all mixed up in the musical antics of a schoolhouse of animals, a lovelorn teacher, a grouchy old benefactor, and an escaped gorilla.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369786" start="20261018225800 +0700" stop="20261018230900 +0700">
+    <title lang="zh">OVER THE GARDEN WALL S1</title>
+    <desc>Beatrice is left out in the rain while Wirt and Greg must ask for directions in a tavern where some surprising secrets are revealed about the Unknown.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369786" start="20261018230900 +0700" stop="20261018232000 +0700">
+    <title lang="zh">OVER THE GARDEN WALL S1</title>
+    <desc>Is millionaire Quincy Endicott's sprawling mansion haunted by a beautiful ghost or is the tea baron going mad? Greg and Fred the Horse are on the case!</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369786" start="20261018232000 +0700" stop="20261018233500 +0700">
+    <title lang="zh">OVER THE GARDEN WALL S1</title>
+    <desc>We join Wirt and Greg on Frogland Ferry and Beatrice acting glum. Things turn emotional for Greg when he realizes that his own frog may be better off living with his amphibian compatriots.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369786" start="20261018233500 +0700" stop="20261019000000 +0700">
+    <title lang="zh">SUITS LA S1</title>
+    <desc>Ted and Erica take on Samantha to save Lester's movie, but the battle may hurt his murder trial.</desc>
     <date>2026-10-18</date>
   </programme>
 <channel id="369758">
@@ -5471,9 +5811,19 @@
     <desc>Designed to behave like the late wife of a detective, an artificial human questions her reality as memories of a past life begin to resurface.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="369758" start="20261018210000 +0700" stop="20261019000000 +0700">
+  <programme channel="369758" start="20261018210000 +0700" stop="20261018214500 +0700">
     <title lang="zh">DR. DEATH S2</title>
     <desc>A tragedy forces Benita to shift perspectives on her piece, and her relationship with Paolo grows more complicated.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369758" start="20261018214500 +0700" stop="20261018232500 +0700">
+    <title lang="zh">SPLITSVILLE</title>
+    <desc>Carey seeks support after divorce, but learns Julie and Paul's secret: an open marriage. Crossing the line throws all their lives into turmoil.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369758" start="20261018232500 +0700" stop="20261019000000 +0700">
+    <title lang="zh">LAND OF GOLD</title>
+    <desc>A truck driver finds a young Mexican American girl inside his shipping container and his life takes a turn as he tries to reunite her with her family.</desc>
     <date>2026-10-18</date>
   </programme>
 <channel id="444724">
@@ -6103,10 +6453,210 @@
     <desc>Presenting United's greatest away goals from our adventures in the UEFA Champions League.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="486870" start="20261018050000 +0700" stop="20261019000000 +0700">
+  <programme channel="486870" start="20261018050000 +0700" stop="20261018060000 +0700">
     <title lang="zh">Beckham: Take A Bow</title>
     <desc>Exclusive documentary looking back at key career moments of football superstar David Beckham. With a special focus on his wonder goal versus Wimbledon that helped catapult Becks onto the world stage.</desc>
     <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018060000 +0700" stop="20261018061500 +0700">
+    <title lang="zh">Uncut: Press Conference: Leeds (A)</title>
+    <desc>In full &amp; uncut: pre-match press conference, including the embargoed sections, ahead of our Premier League match against Leeds United.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018061500 +0700" stop="20261018063000 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>Anna and Julia go head-to-head as they test their knowledge on Sweden, Manchester and United.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018063000 +0700" stop="20261018070000 +0700">
+    <title lang="zh">U21s Highlights 26/27</title>
+    <desc>Highlights of the U21s match against Nottingham Forest.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018070000 +0700" stop="20261018073000 +0700">
+    <title lang="zh">U18s Highlights 26/27</title>
+    <desc>Highlights of the U18s game against Chelsea.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018073000 +0700" stop="20261018074500 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>A group of young Reds are invited to Carrington as part of our fan training sessions.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018074500 +0700" stop="20261018080000 +0700">
+    <title lang="zh">Press Conference</title>
+    <desc>In full &amp; uncut: pre-match press conference, including the embargoed sections, ahead of our Premier League match against Leeds United.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018080000 +0700" stop="20261018090000 +0700">
+    <title lang="zh">Podcast</title>
+    <desc>Adam Lawrence and Darren Fletcher join us on Inside Carrington to discuss the academy and our participation in the UEFA Youth League.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018090000 +0700" stop="20261018094500 +0700">
+    <title lang="zh">Podcast</title>
+    <desc>To mark Black History Month, Helen Evans is joined by Manchester United legends Viv Anderson and Wes Brown for an important conversation about football, progress and representation.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018094500 +0700" stop="20261018100000 +0700">
+    <title lang="zh">Press Conference</title>
+    <desc>In full &amp; uncut: pre-match press conference, including the embargoed sections, ahead of our Premier League match against Leeds United.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018100000 +0700" stop="20261018103000 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>In collaboration with Amazon Prime, Clarence Seedorf visits Carrington to meet Kobbie Mainoo and Michael Carrick's Reds.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018103000 +0700" stop="20261018104500 +0700">
+    <title lang="zh">Press Conference</title>
+    <desc>In full &amp; uncut: pre-match press conference, including the embargoed sections, ahead of our Premier League match against Leeds United.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018104500 +0700" stop="20261018110000 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>A group of young Reds are invited to Carrington as part of our fan training sessions.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018110000 +0700" stop="20261018113000 +0700">
+    <title lang="zh">PL: United v Leeds 91/92</title>
+    <desc>United Archives 6/9/92. United faced League champions Leeds looking to add to their run of 3 straight Premiership wins.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018113000 +0700" stop="20261018120000 +0700">
+    <title lang="zh">PL: Leeds v United 96/97</title>
+    <desc>United Archives 7/9/96. Eric Cantona is in the United line up and returns to his former club as the Reds take on Leeds.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018120000 +0700" stop="20261018123000 +0700">
+    <title lang="zh">PL: United v Leeds 98/99</title>
+    <desc>United Archives 29/11/98.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018123000 +0700" stop="20261018130000 +0700">
+    <title lang="zh">PL: Leeds v United 98/99</title>
+    <desc>United Archives. As the season enters its final month, United look to pick up points against their Yorkshire rivals, Leeds at Elland Road.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018130000 +0700" stop="20261018131500 +0700">
+    <title lang="zh">Press Conference</title>
+    <desc>In full &amp; uncut: pre-match press conference, including the embargoed sections, ahead of our Premier League match against Leeds United.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018131500 +0700" stop="20261018133000 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>We sit down with Phallon Tullis-Joyce to discuss her love for her hometown of New York and what she's come to love about Manchester.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018133000 +0700" stop="20261018140000 +0700">
+    <title lang="zh">PL: United v Leeds 99/00</title>
+    <desc>United Archives 14/8/99. After sweeping aside one Yorkshire club in midweek, United faced old rivals Leeds at Old Trafford.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018140000 +0700" stop="20261018143000 +0700">
+    <title lang="zh">PL: United v Leeds 00/01</title>
+    <desc>United Archives 21/10/00. The Reds looked to strengthen their hold on the top of the table against an injury-ravaged Leeds.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018143000 +0700" stop="20261018150000 +0700">
+    <title lang="zh">PL: Leeds v United 01/02</title>
+    <desc>United Archives 30/3/02. Ole Gunnar Solskjaer inspired United to a vital win over Premiership rivals Leeds in a seven-goal thriller at Elland Road.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018150000 +0700" stop="20261018153000 +0700">
+    <title lang="zh">LC: Leeds v United 11/12</title>
+    <desc>United Archives 20/9/11. The white-hot atmosphere of Elland Road awaited a young United side, with Leeds hoping for a repeat of their shock FA Cup win in 2010.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018153000 +0700" stop="20261018160000 +0700">
+    <title lang="zh">U21s Highlights 26/27</title>
+    <desc>Highlights of the U21s match against Nottingham Forest.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018160000 +0700" stop="20261018163000 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>In collaboration with Amazon Prime, Clarence Seedorf visits Carrington to meet Kobbie Mainoo and Michael Carrick's Reds.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018163000 +0700" stop="20261018164500 +0700">
+    <title lang="zh">Top 20 European Away Goals</title>
+    <desc>Presenting United's greatest away goals from our adventures in the UEFA Champions League.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018164500 +0700" stop="20261018170000 +0700">
+    <title lang="zh">Press Conference</title>
+    <desc>In full &amp; uncut: pre-match press conference, including the embargoed sections, ahead of our Premier League match against Leeds United.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018170000 +0700" stop="20261018173000 +0700">
+    <title lang="zh">Paul Parker: Tackling the Game</title>
+    <desc>In this exclusive interview, Paul Parker opens up about his remarkable journey both on and off the pitch, from his fight against racism to lifting the Premier League title.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018173000 +0700" stop="20261018174500 +0700">
+    <title lang="zh">PL: Leeds v United 21/22</title>
+    <desc>United Archives 20/02/22. Ralf Rangnick's side travelled to Elland Road to take on bitter rivals Leeds United.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018174500 +0700" stop="20261018180000 +0700">
+    <title lang="zh">PL: Leeds v United 22/23</title>
+    <desc>United Archives 12/02/23. The Reds had the chance to move up to second in the table should they emerge victorious from their trip to Elland Road.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018180000 +0700" stop="20261018183000 +0700">
+    <title lang="zh">Highlights: Tour 2026: v Leeds</title>
+    <desc>Highlights of United's Tour 2026 match against Leeds United in Dublin.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018183000 +0700" stop="20261018184500 +0700">
+    <title lang="zh">Sir Alex Ferguson: Games of My Life</title>
+    <desc>With special thanks to Pan Macmillan. We present the full interview with Sir Alex Ferguson ahead of the launch of his new book, Games of My Life.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018184500 +0700" stop="20261018190000 +0700">
+    <title lang="zh">Press Conference</title>
+    <desc>In full &amp; uncut: pre-match press conference, including the embargoed sections, ahead of our Premier League match against Leeds United.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018190000 +0700" stop="20261018200000 +0700">
+    <title lang="zh">Matchday Live</title>
+    <desc>David May and John O'Shea join us for exclusive build-up to our Premier League match against Leeds United.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018200000 +0700" stop="20261018220000 +0700">
+    <title lang="zh">Matchday Live: Radio commentary</title>
+    <desc>Live commentary from Liam Bradford and Ben Thornley. Join us at half-time for first-half analysis from David May and John O'Shea.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018220000 +0700" stop="20261018223000 +0700">
+    <title lang="zh">Live: Matchday Review</title>
+    <desc>David May and John O'Shea join us to discuss our Premier League match against Leeds United, plus exclusive post-match interviews.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018223000 +0700" stop="20261018224500 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>A group of young Reds are invited to Carrington as part of our fan training sessions.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018224500 +0700" stop="20261018230000 +0700">
+    <title lang="zh">All The Goals: Park</title>
+    <desc>The Korean midfielder won the adulation of the fans with his high energy, commitment and scoring of vital goals.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018230000 +0700" stop="20261018233000 +0700">
+    <title lang="zh">Player Spotlight</title>
+    <desc>In collaboration with Amazon Prime, Clarence Seedorf visits Carrington to meet Kobbie Mainoo and Michael Carrick's Reds.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261018233000 +0700" stop="20261019000000 +0700">
+    <title lang="zh">Matchday Review</title>
+    <desc>David May and John O'Shea join us to discuss our Premier League match against Leeds United, plus exclusive post-match interviews.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="486870" start="20261019000000 +0700" stop="20261020000000 +0700">
+    <title lang="zh">U18s Highlights 26/27</title>
+    <desc>Highlights of the U18s game against Chelsea.</desc>
+    <date>2026-10-19</date>
   </programme>
 <channel id="470446">
     <display-name lang="Canada">TSN 1</display-name>
@@ -6282,10 +6832,65 @@
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="470446" start="20261018110000 +0700" stop="20261019000000 +0700">
+  <programme channel="470446" start="20261018110000 +0700" stop="20261018120000 +0700">
     <title lang="zh">PBR Bull Riding</title>
     <desc>Coverage of classic bull riding events from around the United States.</desc>
     <date>2026-10-18</date>
+  </programme>
+  <programme channel="470446" start="20261018120000 +0700" stop="20261018130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470446" start="20261018130000 +0700" stop="20261018140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470446" start="20261018140000 +0700" stop="20261018150000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470446" start="20261018150000 +0700" stop="20261018160000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470446" start="20261018160000 +0700" stop="20261018170000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470446" start="20261018170000 +0700" stop="20261018180000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470446" start="20261018180000 +0700" stop="20261018190000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470446" start="20261018190000 +0700" stop="20261018200000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470446" start="20261018200000 +0700" stop="20261018210000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470446" start="20261018210000 +0700" stop="20261019000000 +0700">
+    <title lang="zh">Live: NFL Countdown</title>
+    <desc>Highlights from previous week's action in the National Football League.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470446" start="20261019000000 +0700" stop="20261020000000 +0700">
+    <title lang="zh">Live: NFL Football</title>
+    <desc>The Atlanta Falcons host the Chicago Bears at Mercedes-Benz Stadium in an NFC game. Chicago looks to D'Andre Swift to establish the ground attack, while Atlanta relies on Bijan Robinson on rushing downs after his strong early October touches.</desc>
+    <date>2026-10-19</date>
   </programme>
 <channel id="470550">
     <display-name lang="Canada">TSN 2</display-name>
@@ -6426,10 +7031,45 @@
     <desc>The best and worst from the world of sports.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="470550" start="20261018110000 +0700" stop="20261019000000 +0700">
+  <programme channel="470550" start="20261018110000 +0700" stop="20261018130000 +0700">
     <title lang="zh">Live: AFL Women's Premiership Football</title>
     <desc>From Windy Hill in Essendon Apt/Melbourne, Victoria, Australia.</desc>
     <date>2026-10-18</date>
+  </programme>
+  <programme channel="470550" start="20261018130000 +0700" stop="20261018160000 +0700">
+    <title lang="zh">CFL Football</title>
+    <desc>The Saskatchewan Roughriders host the Montreal Alouettes in Week 20. Montreal won the first meeting last week over Saskatchewan, 44-24, and arrive with three straight wins. Saskatchewan has dropped four in a row heading into the penultimate week.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470550" start="20261018160000 +0700" stop="20261018190000 +0700">
+    <title lang="zh">CFL Football</title>
+    <desc>The Calgary Stampeders host the BC Lions in CFL Week 20 at McMahon Stadium. Second in the West and winners of four of the last five meetings, BC Lions arrive on four straight wins. Calgary sits fifth after dropping to Winnipeg, 33-28, last week.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470550" start="20261018190000 +0700" stop="20261018220000 +0700">
+    <title lang="zh">CFL Football</title>
+    <desc>The Saskatchewan Roughriders host the Montreal Alouettes in Week 20. Montreal won the first meeting last week over Saskatchewan, 44-24, and arrive with three straight wins. Saskatchewan has dropped four in a row heading into the penultimate week.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470550" start="20261018220000 +0700" stop="20261018230000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470550" start="20261018230000 +0700" stop="20261018233000 +0700">
+    <title lang="zh">UCI Mountain Bike World Cup</title>
+    <desc>Coverage of the UCI Mountain Bike World Cup.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470550" start="20261018233000 +0700" stop="20261019000000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470550" start="20261019000000 +0700" stop="20261020000000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-19</date>
   </programme>
 <channel id="470888">
     <display-name lang="Canada">TSN 3</display-name>
@@ -6585,10 +7225,75 @@
     <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="470888" start="20261018110000 +0700" stop="20261019000000 +0700">
+  <programme channel="470888" start="20261018110000 +0700" stop="20261018120000 +0700">
     <title lang="zh">PBR Bull Riding</title>
     <desc>Coverage of classic bull riding events from around the United States.</desc>
     <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018120000 +0700" stop="20261018130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018130000 +0700" stop="20261018140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018140000 +0700" stop="20261018150000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018150000 +0700" stop="20261018160000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018160000 +0700" stop="20261018170000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018170000 +0700" stop="20261018180000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018180000 +0700" stop="20261018190000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018190000 +0700" stop="20261018200000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018200000 +0700" stop="20261018210000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018210000 +0700" stop="20261018220000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018220000 +0700" stop="20261018230000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261018230000 +0700" stop="20261019000000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470888" start="20261019000000 +0700" stop="20261020000000 +0700">
+    <title lang="zh">Live: NFL Football</title>
+    <desc>The Atlanta Falcons host the Chicago Bears at Mercedes-Benz Stadium in an NFC game. Chicago looks to D'Andre Swift to establish the ground attack, while Atlanta relies on Bijan Robinson on rushing downs after his strong early October touches.</desc>
+    <date>2026-10-19</date>
   </programme>
 <channel id="470730">
     <display-name lang="Canada">TSN 4</display-name>
@@ -6764,10 +7469,65 @@
     <desc>From Lumen Field in Seattle.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="470730" start="20261018113000 +0700" stop="20261019000000 +0700">
+  <programme channel="470730" start="20261018113000 +0700" stop="20261018120000 +0700">
     <title lang="zh">SC</title>
     <desc>The best and worst from the world of sports.</desc>
     <date>2026-10-18</date>
+  </programme>
+  <programme channel="470730" start="20261018120000 +0700" stop="20261018130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470730" start="20261018130000 +0700" stop="20261018140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470730" start="20261018140000 +0700" stop="20261018150000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470730" start="20261018150000 +0700" stop="20261018153000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470730" start="20261018153000 +0700" stop="20261018180000 +0700">
+    <title lang="zh">Live: 2026 Rolex Shanghai Masters Tennis</title>
+    <desc>From Qizhong Forest Sports City Arena in Shanghai, China.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470730" start="20261018180000 +0700" stop="20261018190000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470730" start="20261018190000 +0700" stop="20261018200000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470730" start="20261018200000 +0700" stop="20261018210000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470730" start="20261018210000 +0700" stop="20261018214800 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470730" start="20261018214800 +0700" stop="20261019000000 +0700">
+    <title lang="zh">Live: 2026 FIFA U-17 Women's World Cup</title>
+    <desc>Group C.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470730" start="20261019000000 +0700" stop="20261020000000 +0700">
+    <title lang="zh">Live: Northern Super League Soccer</title>
+    <desc>From BMO Field in Toronto.</desc>
+    <date>2026-10-19</date>
   </programme>
 <channel id="470390">
     <display-name lang="Canada">TSN 5</display-name>
@@ -6918,10 +7678,75 @@
     <desc>From Lumen Field in Seattle.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="470390" start="20261018113000 +0700" stop="20261019000000 +0700">
+  <programme channel="470390" start="20261018113000 +0700" stop="20261018120000 +0700">
     <title lang="zh">SC</title>
     <desc>The best and worst from the world of sports.</desc>
     <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018120000 +0700" stop="20261018130000 +0700">
+    <title lang="zh">Live: SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018130000 +0700" stop="20261018140000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018140000 +0700" stop="20261018150000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018150000 +0700" stop="20261018160000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018160000 +0700" stop="20261018170000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018170000 +0700" stop="20261018173000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018173000 +0700" stop="20261018200000 +0700">
+    <title lang="zh">Live: 2026 Dongfeng Voyah Wuhan Open Tennis</title>
+    <desc>From Optics Valley International Tennis Center in Wuhan, Hubei, China.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018200000 +0700" stop="20261018210000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018210000 +0700" stop="20261018220000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018220000 +0700" stop="20261018230000 +0700">
+    <title lang="zh">SportsCentre</title>
+    <desc>TSN's flagship show providing news, highlights, analysis and interviews from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018230000 +0700" stop="20261018233000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261018233000 +0700" stop="20261019000000 +0700">
+    <title lang="zh">SC</title>
+    <desc>The best and worst from the world of sports.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="470390" start="20261019000000 +0700" stop="20261020000000 +0700">
+    <title lang="zh">PBR Bull Riding</title>
+    <desc>Coverage of classic bull riding events from around the United States.</desc>
+    <date>2026-10-19</date>
   </programme>
 </tv><?xml version='1.0' encoding='utf-8'?>
 <tv><channel id="ABC.id"><display-name>ABC.id</display-name></channel><channel id="beIN SPORTS 2.id"><display-name>beIN SPORTS 2.id</display-name></channel><channel id="beIN SPORTS 3.id"><display-name>beIN SPORTS 3.id</display-name></channel><channel id="beIN SPORTS 4.id"><display-name>beIN SPORTS 4.id</display-name></channel><channel id="beIN SPORTS 5.id"><display-name>beIN SPORTS 5.id</display-name></channel><channel id="beIN SPORTS.id"><display-name>beIN SPORTS.id</display-name></channel><channel id="CNBC Asia.id"><display-name>CNBC Asia.id</display-name></channel><channel id="Fight Sports.id"><display-name>Fight Sports.id</display-name></channel><channel id="Food Travel.id"><display-name>Food Travel.id</display-name></channel><channel id="GTV.id"><display-name>GTV.id</display-name></channel><channel id="Indosiar.id"><display-name>Indosiar.id</display-name></channel><channel id="Moji.id"><display-name>Moji.id</display-name></channel><channel id="Originals.id"><display-name>Originals.id</display-name></channel><channel id="SCTV.id"><display-name>SCTV.id</display-name></channel><channel id="Soccer Channel.id"><display-name>Soccer Channel.id</display-name></channel><channel id="Sportstars 2.id"><display-name>Sportstars 2.id</display-name></channel><channel id="Sportstars 3.id"><display-name>Sportstars 3.id</display-name></channel><channel id="Sportstars 4.id"><display-name>Sportstars 4.id</display-name></channel><channel id="Sportstars.id"><display-name>Sportstars.id</display-name></channel><channel id="SpoTV 1.id"><display-name>SpoTV 1.id</display-name></channel><channel id="SpoTV 2.id"><display-name>SpoTV 2.id</display-name></channel><channel id="V+ LIVE 2.id"><display-name>V+ LIVE 2.id</display-name></channel><channel id="V+ LIVE 3.id"><display-name>V+ LIVE 3.id</display-name></channel><channel id="V+ LIVE.id"><display-name>V+ LIVE.id</display-name></channel><channel id="V+ Sports.id"><display-name>V+ Sports.id</display-name></channel><channel id="102"><display-name>Channel 5 HD</display-name></channel><channel id="105"><display-name>Vasantham HD</display-name></channel><channel id="201"><display-name>Hub Sports 1  HD</display-name></channel><channel id="202"><display-name>Hub Sports 2 HD</display-name></channel><channel id="204"><display-name>Hub Sports 4 HD</display-name></channel><channel id="206"><display-name>Hub Sports 6 HD</display-name></channel><channel id="207"><display-name>Hub Sports 7 HD</display-name></channel><channel id="209"><display-name>SPOTV</display-name></channel><channel id="210"><display-name>SPOTV2</display-name></channel><channel id="211"><display-name>beIN SPORTS 2 HD</display-name></channel><channel id="213"><display-name>beIN SPORTS HD</display-name></channel><channel id="214"><display-name>beIN SPORTS 3 HD</display-name></channel><channel id="217"><display-name>Cricbuzz</display-name></channel><channel id="221"><display-name>Hub Premier 1</display-name></channel><channel id="222"><display-name>Hub Premier 2 (HD)</display-name></channel><channel id="223"><display-name>Hub Premier 3</display-name></channel><channel id="224"><display-name>Hub Premier 4</display-name></channel><channel id="241"><display-name>FIGHT SPORTS HD</display-name></channel><channel id="247"><display-name>Premier Sports</display-name></channel><channel id="316"><display-name>Cartoon Network</display-name></channel><channel id="447"><display-name>ABC Australia HD</display-name></channel><channel id="611"><display-name>Cinemax HD</display-name></channel><channel id="707"><display-name>CNBC HD</display-name></channel><channel id="805"><display-name>Phoenix Chinese Channel HD</display-name></channel><channel id="811"><display-name>NHK World Premium HD</display-name></channel><programme start="20261017020000 +0000" stop="20261017040000 +0000" channel="ABC.id"><title>AFLW: Crows Vs Suns</title></programme><programme start="20261017040000 +0000" stop="20261017060000 +0000" channel="ABC.id"><title>AFLW: Carlton Vs Bulldogs</title></programme><programme start="20261015073000 +0000" stop="20261015133000 +0000" channel="beIN SPORTS 2.id"><title>Premier Padel 2026: Milan P1 - Day 4</title></programme><programme start="20261015133000 +0000" stop="20261015150000 +0000" channel="beIN SPORTS 2.id"><title>Laver Cup 2026: Singles Day 3</title></programme><programme start="20261015164000 +0000" stop="20261015185500 +0000" channel="beIN SPORTS 2.id"><title>UEFA Europa League 2026/27: Lech vs Leverkusen</title></programme><programme start="20261015185500 +0000" stop="20261015210000 +0000" channel="beIN SPORTS 2.id"><title>UEFA Conference League 2026/27: Brighton vs Zalgiris</title></programme><programme start="20261015212000 +0000" stop="20261015225000 +0000" channel="beIN SPORTS 2.id"><title>Premier Padel 2026: Malaga</title></programme><programme start="20261015225000 +0000" stop="20261016002000 +0000" channel="beIN SPORTS 2.id"><title>Premier Padel 2026: Milan</title></programme><programme start="20261016002000 +0000" stop="20261016015000 +0000" channel="beIN SPORTS 2.id"><title>Premier Padel 2026: Milan</title></programme><programme start="20261016015000 +0000" stop="20261016032000 +0000" channel="beIN SPORTS 2.id"><title>Premier Padel 2026: Milan</title></programme><programme start="20261016032000 +0000" stop="20261016051000 +0000" channel="beIN SPORTS 2.id"><title>UECL 2026/27: CSK Vs ASM</title></programme><programme start="20261016051000 +0000" stop="20261016070000 +0000" channel="beIN SPORTS 2.id"><title>UECL 2026/27: KUP Vs TSR</title></programme><programme start="20261016070000 +0000" stop="20261016113000 +0000" channel="beIN SPORTS 2.id"><title>Premier Padel 2026: Milan P1 - Quarter Finals</title></programme><programme start="20261016133000 +0000" stop="20261016152000 +0000" channel="beIN SPORTS 2.id"><title>UECL 2026/27: BHA Vs ZAL</title></programme><programme start="20261016160000 +0000" stop="20261016173000 +0000" channel="beIN SPORTS 2.id"><title>Premier Padel 2026: Milan P1 - Quarter Finals (1)</title></programme><programme start="20261016173000 +0000" stop="20261016180000 +0000" channel="beIN SPORTS 2.id"><title>Premier Padel Highlights 2026</title></programme><programme start="20261016182200 +0000" stop="20261016203000 +0000" channel="beIN SPORTS 2.id"><title>LaLiga 2 2026/27: Leganes vs Cordoba</title></programme><programme start="20261016210000 +0000" stop="20261016223000 +0000" channel="beIN SPORTS 2.id"><title>Premier Padel 2026: Malaga</title></programme><programme start="20261016223000 +0000" stop="20261017000000 +0000" channel="beIN SPORTS 2.id"><title>Premier Padel 2026: Malaga</title></programme><programme start="20261017000000 +0000" stop="20261017013000 +0000" channel="beIN SPORTS 2.id"><title>Premier Padel 2026: Milan</title></programme><programme start="20261017013000 +0000" stop="20261017030000 +0000" channel="beIN SPORTS 2.id"><title>Premier Padel 2026: Milan</title></programme><programme start="20261017033000 +0000" stop="20261017052000 +0000" channel="beIN SPORTS 2.id"><title>UECL 2026/27: CSK Vs ASM</title></programme><programme start="20261017080000 +0000" stop="20261017081000 +0000" channel="beIN SPORTS 2.id"><title>Premier Padel Match HL 2026</title></programme><programme start="20261015140000 +0000" stop="20261015155000 +0000" channel="beIN SPORTS 3.id"><title>UCL 2026/27: LAS Vs LIV</title></programme><programme start="20261015155000 +0000" stop="20261015160000 +0000" channel="beIN SPORTS 3.id"><title>UCL Classic Matches: ARS Vs MUN</title></programme><programme start="20261015163000 +0000" stop="20261015164000 +0000" channel="beIN SPORTS 3.id"><title>UEL Classic Matches: WOB Vs INT</title></programme><programme start="20261015164000 +0000" stop="20261015185500 +0000" channel="beIN SPORTS 3.id"><title>UEFA Europa League 2026/27: Salzburg vs Milan</title></programme><programme start="20261015185500 +0000" stop="20261015210000 +0000" channel="beIN SPORTS 3.id"><title>UEFA Europa League 2026/27: Celta Vigo vs Juventus</title></programme><programme start="20261015210000 +0000" stop="20261015220000 +0000" channel="beIN SPORTS 3.id"><title>FEI World Championships 2026</title></programme><programme start="20261015230000 +0000" stop="20261016005000 +0000" channel="beIN SPORTS 3.id"><title>UEL 2026/27: ACS Vs LIL</title></programme><programme start="20261016005000 +0000" stop="20261016024000 +0000" channel="beIN SPORTS 3.id"><title>UEL 2026/27: STG Vs RSO</title></programme><programme start="20261016024000 +0000" stop="20261016043000 +0000" channel="beIN SPORTS 3.id"><title>UEL 2026/27: SCU Vs SUN</title></programme><programme start="20261016043000 +0000" stop="20261016062000 +0000" channel="beIN SPORTS 3.id"><title>UEL 2026/27: MAR Vs OLY</title></programme><programme start="20261016062000 +0000" stop="20261016081000 +0000" channel="beIN SPORTS 3.id"><title>UEL 2026/27: SLB Vs CEL</title></programme><programme start="20261016081000 +0000" stop="20261016100000 +0000" channel="beIN SPORTS 3.id"><title>UEL 2026/27: TSG Vs BJK</title></programme><programme start="20261016103000 +0000" stop="20261016122000 +0000" channel="beIN SPORTS 3.id"><title>UEL 2026/27: LYO Vs CRY</title></programme><programme start="20261016122000 +0000" stop="20261016123000 +0000" channel="beIN SPORTS 3.id"><title>UCL Classic Matches: RMA Vs TOT</title></programme><programme start="20261016140000 +0000" stop="20261016155000 +0000" channel="beIN SPORTS 3.id"><title>UEL 2026/27: CEL Vs JUV</title></programme><programme start="20261016155000 +0000" stop="20261016160000 +0000" channel="beIN SPORTS 3.id"><title>UEL Classic Matches: WOB Vs INT</title></programme><programme start="20261016160000 +0000" stop="20261016175000 +0000" channel="beIN SPORTS 3.id"><title>UEL 2026/27: FTC Vs PLZ</title></programme><programme start="20261016175000 +0000" stop="20261016194000 +0000" channel="beIN SPORTS 3.id"><title>UEL 2026/27: DIN Vs AND</title></programme><programme start="20261016194000 +0000" stop="20261016213000 +0000" channel="beIN SPORTS 3.id"><title>UEL 2026/27: JAG Vs ARM</title></programme><programme start="20261017023000 +0000" stop="20261017042000 +0000" channel="beIN SPORTS 3.id"><title>UCL 2026/27: RCL Vs SCP</title></programme><programme start="20261017042000 +0000" stop="20261017061000 +0000" channel="beIN SPORTS 3.id"><title>UCL 2026/27: SAB Vs SLA</title></programme><programme start="20261017061000 +0000" stop="20261017080000 +0000" channel="beIN SPORTS 3.id"><title>UCL 2026/27: ARS Vs LIL</title></programme><programme start="20261015190000 +0000" stop="20261015210000 +0000" channel="beIN SPORTS 4.id"><title>UEFA Europa League 2026/27: Benfica vs Celtic</title></programme><programme start="20261015190000 +0000" stop="20261015210000 +0000" channel="beIN SPORTS 5.id"><title>UEFA Conference League 2026/27: Atalanta vs Pafos</title></programme><programme start="20261015103500 +0000" stop="20261015123500 +0000" channel="beIN SPORTS.id"><title>LFCTV 2026/27: LIV Vs MCI</title></programme><programme start="20261015133500 +0000" stop="20261015141000 +0000" channel="beIN SPORTS.id"><title>LaLiga Highlights 2026/27</title></programme><programme start="20261015141000 +0000" stop="20261015160000 +0000" channel="beIN SPORTS.id"><title>LaLiga 2026/27: ALA Vs ATM</title></programme><programme start="20261015160000 +0000" stop="20261015164000 +0000" channel="beIN SPORTS.id"><title>LaLiga Highlights 2026/27</title></programme><programme start="20261015164000 +0000" stop="20261015185500 +0000" channel="beIN SPORTS.id"><title>UEFA Europa League 2026/27: Lyon vs Crystal Palace</title></programme><programme start="20261015185500 +0000" stop="20261015210000 +0000" channel="beIN SPORTS.id"><title>UEFA Europa League 2026/27: Bournemouth vs Sturm</title></programme><programme start="20261015210000 +0000" stop="20261015225000 +0000" channel="beIN SPORTS.id"><title>LaLiga 2026/27: ELC Vs CEL</title></programme><programme start="20261015225000 +0000" stop="20261016004500 +0000" channel="beIN SPORTS.id"><title>LaLiga 2026/27: ALA Vs ATM</title></programme><programme start="20261016004500 +0000" stop="20261016012000 +0000" channel="beIN SPORTS.id"><title>LaLiga Highlights 2026/27</title></programme><programme start="20261016025000 +0000" stop="20261016044000 +0000" channel="beIN SPORTS.id"><title>LaLiga 2026/27: BET Vs OSA</title></programme><programme start="20261016044000 +0000" stop="20261016063000 +0000" channel="beIN SPORTS.id"><title>LaLiga 2026/27: RSO Vs DEP</title></programme><programme start="20261016073000 +0000" stop="20261016092500 +0000" channel="beIN SPORTS.id"><title>LaLiga 2026/27: LEV Vs SEV</title></programme><programme start="20261016113000 +0000" stop="20261016133000 +0000" channel="beIN SPORTS.id"><title>LaLiga 2026/27: BAR Vs GET</title></programme><programme start="20261016133000 +0000" stop="20261016135000 +0000" channel="beIN SPORTS.id"><title>LaLiga Freetour 2026 / 27</title></programme><programme start="20261016135000 +0000" stop="20261016155000 +0000" channel="beIN SPORTS.id"><title>LaLiga 2026/27: RMA Vs VIL</title></programme><programme start="20261016162000 +0000" stop="20261016163000 +0000" channel="beIN SPORTS.id"><title>LaLiga Goals Galore 2024/25</title></programme><programme start="20261016183000 +0000" stop="20261016185500 +0000" channel="beIN SPORTS.id"><title>LaLiga Goals Galore 2024/25</title></programme><programme start="20261016185500 +0000" stop="20261016210000 +0000" channel="beIN SPORTS.id"><title>LaLiga 2026/27: Deportivo vs Levante</title></programme><programme start="20261016210000 +0000" stop="20261016230000 +0000" channel="beIN SPORTS.id"><title>LFCTV 2026/27: LIV Vs MCI</title></programme><programme start="20261017000000 +0000" stop="20261017020000 +0000" channel="beIN SPORTS.id"><title>Le Mans Cup 2026: Portimao</title></programme><programme start="20261017020000 +0000" stop="20261017035000 +0000" channel="beIN SPORTS.id"><title>LaLiga 2 2026/27: LEG Vs COR</title></programme><programme start="20261017042000 +0000" stop="20261017061000 +0000" channel="beIN SPORTS.id"><title>LaLiga 2026/27: DEP Vs LEV</title></programme><programme start="20261017073000 +0000" stop="20261017080000 +0000" channel="CNBC Asia.id"><title>Le Mans Cup</title></programme><programme start="20261015140000 +0000" stop="20261015143000 +0000" channel="Fight Sports.id"><title>Knockouts!: Floyd Vs Cotto</title></programme><programme start="20261015153000 +0000" stop="20261015160000 +0000" channel="Fight Sports.id"><title>MMA 30 S1, Ep 1</title></programme><programme start="20261015160000 +0000" stop="20261015170000 +0000" channel="Fight Sports.id"><title>FS MMA: Bahati Vs Du Plessis</title></programme><programme start="20261015200000 +0000" stop="20261015203000 +0000" channel="Fight Sports.id"><title>Knockouts!: Floyd Vs Cotto</title></programme><programme start="20261015213000 +0000" stop="20261015220000 +0000" channel="Fight Sports.id"><title>MMA 30 S1, Ep 1</title></programme><programme start="20261015220000 +0000" stop="20261015230000 +0000" channel="Fight Sports.id"><title>FS MMA: Bahati Vs Du Plessis</title></programme><programme start="20261016020000 +0000" stop="20261016023000 +0000" channel="Fight Sports.id"><title>Knockouts!: Floyd Vs Cotto</title></programme><programme start="20261016033000 +0000" stop="20261016040000 +0000" channel="Fight Sports.id"><title>MMA 30 S1, Ep 1</title></programme><programme start="20261016040000 +0000" stop="20261016050000 +0000" channel="Fight Sports.id"><title>FS MMA: Bahati Vs Du Plessis</title></programme><programme start="20261016080000 +0000" stop="20261016083000 +0000" channel="Fight Sports.id"><title>Knockouts!: Floyd Vs Cotto</title></programme><programme start="20261016093000 +0000" stop="20261016100000 +0000" channel="Fight Sports.id"><title>MMA 30 S1, Ep 1</title></programme><programme start="20261016100000 +0000" stop="20261016110000 +0000" channel="Fight Sports.id"><title>FS MMA: Bahati Vs Du Plessis</title></programme><programme start="20261016140000 +0000" stop="20261016143000 +0000" channel="Fight Sports.id"><title>Knockouts!: Marquez Vs Katsidis</title></programme><programme start="20261016160000 +0000" stop="20261016170000 +0000" channel="Fight Sports.id"><title>FS MMA: Gorimbo Vs Michael</title></programme><programme start="20261016200000 +0000" stop="20261016203000 +0000" channel="Fight Sports.id"><title>Knockouts!: Marquez Vs Katsidis</title></programme><programme start="20261016220000 +0000" stop="20261016230000 +0000" channel="Fight Sports.id"><title>FS MMA: Gorimbo Vs Michael</title></programme><programme start="20261017020000 +0000" stop="20261017023000 +0000" channel="Fight Sports.id"><title>Knockouts!: Marquez Vs Katsidis</title></programme><programme start="20261017040000 +0000" stop="20261017050000 +0000" channel="Fight Sports.id"><title>FS MMA: Gorimbo Vs Michael</title></programme><programme start="20261017080000 +0000" stop="20261017083000 +0000" channel="Fight Sports.id"><title>Knockouts!: Marquez Vs Katsidis</title></programme><programme start="20261015143000 +0000" stop="20261015150000 +0000" channel="Food Travel.id"><title>AFC Champions League 22/24 : Yokohama F. Marinos vs Shandong Taishan FC</title></programme><programme start="20261016143000 +0000" stop="20261016150000 +0000" channel="Food Travel.id"><title>AFC Champions League 22/24 : Yokohama F. Marinos vs Shandong Taishan FC</title></programme><programme start="20261015190000 +0000" stop="20261015203000 +0000" channel="GTV.id"><title>AFC Champions League Elite</title></programme><programme start="20261016120000 +0000" stop="20261016133000 +0000" channel="GTV.id"><title>Liga Bintang Juara (GTV)</title></programme><programme start="20261016190000 +0000" stop="20261016203000 +0000" channel="GTV.id"><title>AFC Champions League Elite</title></programme><programme start="20261016080000 +0000" stop="20261016103000 +0000" channel="Indosiar.id"><title>BRI Super League 2026/27</title></programme><programme start="20261016113000 +0000" stop="20261016140000 +0000" channel="Indosiar.id"><title>BRI Super League 2026/27</title></programme><programme start="20261016140000 +0000" stop="20261016160000 +0000" channel="Indosiar.id"><title>BRI Super League 2026/27</title></programme><programme start="20261017080000 +0000" stop="20261017103000 +0000" channel="Indosiar.id"><title>BRI Super League 2026/27</title></programme><programme start="20261015113041 +0000" stop="20261015140000 +0000" channel="Moji.id"><title>LIGA VOLI MAHASISWA SERI SURABAYA (LIVE) - UNP VS STKIP</title></programme><programme start="20261015140000 +0000" stop="20261015155600 +0000" channel="Moji.id"><title>UEFA CHAMPIONS LEAGUE</title></programme><programme start="20261016053000 +0000" stop="20261016073010 +0000" channel="Moji.id"><title>LIGA VOLI MAHASISWA SERI SURABAYA (LIVE) - UM VS UPI</title></programme><programme start="20261016073010 +0000" stop="20261016093020 +0000" channel="Moji.id"><title>LIGA VOLI MAHASISWA SERI SURABAYA (LIVE) - UNESA VS UM</title></programme><programme start="20261016093020 +0000" stop="20261016113041 +0000" channel="Moji.id"><title>LIGA VOLI MAHASISWA SERI SURABAYA (LIVE) - UNP VS UNESA</title></programme><programme start="20261016113041 +0000" stop="20261016140000 +0000" channel="Moji.id"><title>LIGA VOLI MAHASISWA SERI SURABAYA (LIVE) - UNIJA VS STKIP</title></programme><programme start="20261016140000 +0000" stop="20261016155600 +0000" channel="Moji.id"><title>UEFA CHAMPIONS LEAGUE</title></programme><programme start="20261017053000 +0000" stop="20261017073010 +0000" channel="Moji.id"><title>LIGA VOLI MAHASISWA SERI SURABAYA (LIVE)</title></programme><programme start="20261017073010 +0000" stop="20261017093020 +0000" channel="Moji.id"><title>LIGA VOLI MAHASISWA SERI SURABAYA (LIVE)</title></programme><programme start="20261016101400 +0000" stop="20261016102300 +0000" channel="Originals.id"><title>73 Questions With Emma Stone</title></programme><programme start="20261015164500 +0000" stop="20261015190000 +0000" channel="SCTV.id"><title>UEFA Europa League (L)</title></programme><programme start="20261015190000 +0000" stop="20261015210000 +0000" channel="SCTV.id"><title>UEFA Europa League (L)</title></programme><programme start="20261015121000 +0000" stop="20261015141500 +0000" channel="Soccer Channel.id"><title>ACL Two: TAM Vs MAC (L)</title></programme><programme start="20261015143000 +0000" stop="20261015163000 +0000" channel="Soccer Channel.id"><title>ACL Two 2026/27: KUW Vs KHA</title></programme><programme start="20261015163000 +0000" stop="20261015190000 +0000" channel="Soccer Channel.id"><title>UNL: NED Vs GER</title></programme><programme start="20261015190000 +0000" stop="20261015210000 +0000" channel="Soccer Channel.id"><title>ACL Two 2026/27: PSB Vs VTL</title></programme><programme start="20261015220000 +0000" stop="20261016000000 +0000" channel="Soccer Channel.id"><title>VI Copa Das Nacoes de Futsal 2026: Brazil vs Indonesia</title></programme><programme start="20261016000000 +0000" stop="20261016014500 +0000" channel="Soccer Channel.id"><title>Timnas Spesial: SIN Vs IDN</title></programme><programme start="20261016014500 +0000" stop="20261016033000 +0000" channel="Soccer Channel.id"><title>UNL: NED Vs GER</title></programme><programme start="20261016040000 +0000" stop="20261016060000 +0000" channel="Soccer Channel.id"><title>ACL Two 2026/27: KUC Vs KIT</title></programme><programme start="20261016060000 +0000" stop="20261016080000 +0000" channel="Soccer Channel.id"><title>Timnas Spesial U23: IDN Vs KOR</title></programme><programme start="20261016080000 +0000" stop="20261016100000 +0000" channel="Soccer Channel.id"><title>UNL: GEO Vs NIR</title></programme><programme start="20261016110000 +0000" stop="20261016124500 +0000" channel="Soccer Channel.id"><title>Shopee Cup '26/27: KUC Vs TAM</title></programme><programme start="20261016124500 +0000" stop="20261016143000 +0000" channel="Soccer Channel.id"><title>AFC U20 2025: PRK Vs JOR</title></programme><programme start="20261016143000 +0000" stop="20261016163000 +0000" channel="Soccer Channel.id"><title>Timnas Spesial U23: IDN Vs KOR</title></programme><programme start="20261016163000 +0000" stop="20261016183000 +0000" channel="Soccer Channel.id"><title>UNL: GEO Vs NIR</title></programme><programme start="20261016190000 +0000" stop="20261016210000 +0000" channel="Soccer Channel.id"><title>ACL Two 2026/27: KUC Vs KIT</title></programme><programme start="20261016210000 +0000" stop="20261016230000 +0000" channel="Soccer Channel.id"><title>Shopee Cup '26/27: KUC Vs TAM</title></programme><programme start="20261016233000 +0000" stop="20261017013000 +0000" channel="Soccer Channel.id"><title>VI Copa Das Nacoes de Futsal 2026: Cape Verde vs Indonesia</title></programme><programme start="20261017013000 +0000" stop="20261017033000 +0000" channel="Soccer Channel.id"><title>UNL: GEO Vs NIR</title></programme><programme start="20261017040000 +0000" stop="20261017060000 +0000" channel="Soccer Channel.id"><title>ACL Two 2025/26: AHK Vs KHA</title></programme><programme start="20261017060000 +0000" stop="20261017080000 +0000" channel="Soccer Channel.id"><title>Timnas Spesial: IDN Vs MRI</title></programme><programme start="20261017080000 +0000" stop="20261017100000 +0000" channel="Soccer Channel.id"><title>UNL: ITA Vs BEL</title></programme><programme start="20261015121500 +0000" stop="20261015141500 +0000" channel="Sportstars 2.id"><title>ACL Two: SVR Vs SHS (L)</title></programme><programme start="20261015153000 +0000" stop="20261015180000 +0000" channel="Sportstars 2.id"><title>Best Of Badminton</title></programme><programme start="20261015190000 +0000" stop="20261015210000 +0000" channel="Sportstars 2.id"><title>NH Cup 2026-2027</title></programme><programme start="20261015230000 +0000" stop="20261016010000 +0000" channel="Sportstars 2.id"><title>UEFA Nations League</title></programme><programme start="20261016020000 +0000" stop="20261016040000 +0000" channel="Sportstars 2.id"><title>The Championship Wimbledon</title></programme><programme start="20261016050000 +0000" stop="20261016070000 +0000" channel="Sportstars 2.id"><title>NH Cup 2026-2027</title></programme><programme start="20261016070000 +0000" stop="20261016100000 +0000" channel="Sportstars 2.id"><title>The Championship Wimbledon</title></programme><programme start="20261016100000 +0000" stop="20261016120000 +0000" channel="Sportstars 2.id"><title>Best Of Badminton</title></programme><programme start="20261016120000 +0000" stop="20261016140000 +0000" channel="Sportstars 2.id"><title>UEFA Nations League</title></programme><programme start="20261016160000 +0000" stop="20261016190000 +0000" channel="Sportstars 2.id"><title>The Championship Wimbledon</title></programme><programme start="20261016190000 +0000" stop="20261016210000 +0000" channel="Sportstars 2.id"><title>NH Cup 2026-2027</title></programme><programme start="20261016230000 +0000" stop="20261017010000 +0000" channel="Sportstars 2.id"><title>UEFA Nations League</title></programme><programme start="20261017020000 +0000" stop="20261017040000 +0000" channel="Sportstars 2.id"><title>The Championship Wimbledon</title></programme><programme start="20261017050000 +0000" stop="20261017070000 +0000" channel="Sportstars 2.id"><title>NH Cup 2026-2027</title></programme><programme start="20261017070000 +0000" stop="20261017100000 +0000" channel="Sportstars 2.id"><title>The Championship Wimbledon</title></programme><programme start="20261015110000 +0000" stop="20261015130000 +0000" channel="Sportstars 3.id"><title>AFC Champions League Two</title></programme><programme start="20261015130000 +0000" stop="20261015150000 +0000" channel="Sportstars 3.id"><title>UEFA Nations League</title></programme><programme start="20261015150000 +0000" stop="20261015170000 +0000" channel="Sportstars 3.id"><title>Pro Futsal League</title></programme><programme start="20261015190000 +0000" stop="20261015210000 +0000" channel="Sportstars 3.id"><title>AFC Champions League Two</title></programme><programme start="20261015210000 +0000" stop="20261015230000 +0000" channel="Sportstars 3.id"><title>UEFA Nations League</title></programme><programme start="20261015230000 +0000" stop="20261016010000 +0000" channel="Sportstars 3.id"><title>Pro Futsal League</title></programme><programme start="20261016010000 +0000" stop="20261016030000 +0000" channel="Sportstars 3.id"><title>AFC Champions League Two</title></programme><programme start="20261016050000 +0000" stop="20261016070000 +0000" channel="Sportstars 3.id"><title>UEFA Nations League</title></programme><programme start="20261016070000 +0000" stop="20261016090000 +0000" channel="Sportstars 3.id"><title>Pro Futsal League</title></programme><programme start="20261016110000 +0000" stop="20261016130000 +0000" channel="Sportstars 3.id"><title>AFC Champions League Two</title></programme><programme start="20261016130000 +0000" stop="20261016150000 +0000" channel="Sportstars 3.id"><title>UEFA Nations League</title></programme><programme start="20261016150000 +0000" stop="20261016170000 +0000" channel="Sportstars 3.id"><title>Pro Futsal League</title></programme><programme start="20261016190000 +0000" stop="20261016210000 +0000" channel="Sportstars 3.id"><title>AFC Champions League Two</title></programme><programme start="20261016210000 +0000" stop="20261016230000 +0000" channel="Sportstars 3.id"><title>UEFA Nations League</title></programme><programme start="20261016230000 +0000" stop="20261017010000 +0000" channel="Sportstars 3.id"><title>Pro Futsal League</title></programme><programme start="20261017010000 +0000" stop="20261017030000 +0000" channel="Sportstars 3.id"><title>AFC Champions League Two</title></programme><programme start="20261017050000 +0000" stop="20261017070000 +0000" channel="Sportstars 3.id"><title>UEFA Nations League</title></programme><programme start="20261017070000 +0000" stop="20261017090000 +0000" channel="Sportstars 3.id"><title>Pro Futsal League</title></programme><programme start="20261015110000 +0000" stop="20261015130000 +0000" channel="Sportstars 4.id"><title>AFC Champions League Two</title></programme><programme start="20261015130000 +0000" stop="20261015150000 +0000" channel="Sportstars 4.id"><title>UEFA Nations League</title></programme><programme start="20261015150000 +0000" stop="20261015170000 +0000" channel="Sportstars 4.id"><title>Pro Futsal League</title></programme><programme start="20261015190000 +0000" stop="20261015210000 +0000" channel="Sportstars 4.id"><title>AFC Champions League Two</title></programme><programme start="20261015210000 +0000" stop="20261015230000 +0000" channel="Sportstars 4.id"><title>UEFA Nations League</title></programme><programme start="20261015230000 +0000" stop="20261016010000 +0000" channel="Sportstars 4.id"><title>Pro Futsal League</title></programme><programme start="20261016010000 +0000" stop="20261016030000 +0000" channel="Sportstars 4.id"><title>AFC Champions League Two</title></programme><programme start="20261016050000 +0000" stop="20261016070000 +0000" channel="Sportstars 4.id"><title>UEFA Nations League</title></programme><programme start="20261016070000 +0000" stop="20261016090000 +0000" channel="Sportstars 4.id"><title>Pro Futsal League</title></programme><programme start="20261016110000 +0000" stop="20261016130000 +0000" channel="Sportstars 4.id"><title>AFC Champions League Two</title></programme><programme start="20261016130000 +0000" stop="20261016150000 +0000" channel="Sportstars 4.id"><title>UEFA Nations League</title></programme><programme start="20261016150000 +0000" stop="20261016170000 +0000" channel="Sportstars 4.id"><title>Pro Futsal League</title></programme><programme start="20261016190000 +0000" stop="20261016210000 +0000" channel="Sportstars 4.id"><title>AFC Champions League Two</title></programme><programme start="20261016210000 +0000" stop="20261016230000 +0000" channel="Sportstars 4.id"><title>UEFA Nations League</title></programme><programme start="20261016230000 +0000" stop="20261017010000 +0000" channel="Sportstars 4.id"><title>Pro Futsal League</title></programme><programme start="20261017010000 +0000" stop="20261017030000 +0000" channel="Sportstars 4.id"><title>AFC Champions League Two</title></programme><programme start="20261017050000 +0000" stop="20261017070000 +0000" channel="Sportstars 4.id"><title>UEFA Nations League</title></programme><programme start="20261017070000 +0000" stop="20261017090000 +0000" channel="Sportstars 4.id"><title>Pro Futsal League</title></programme><programme start="20261015150000 +0000" stop="20261015170000 +0000" channel="Sportstars.id"><title>NH Cup 2026: Women</title></programme><programme start="20261015170000 +0000" stop="20261015190000 +0000" channel="Sportstars.id"><title>Pro Futsal League</title></programme><programme start="20261015190000 +0000" stop="20261015210000 +0000" channel="Sportstars.id"><title>Best Of Badminton</title></programme><programme start="20261015210000 +0000" stop="20261015230000 +0000" channel="Sportstars.id"><title>The Championship Wimbledon</title></programme><programme start="20261016003000 +0000" stop="20261016023000 +0000" channel="Sportstars.id"><title>Pro Futsal League</title></programme><programme start="20261016023000 +0000" stop="20261016043000 +0000" channel="Sportstars.id"><title>NH Cup 2026: Women</title></programme><programme start="20261016053000 +0000" stop="20261016073000 +0000" channel="Sportstars.id"><title>Best Of Badminton</title></programme><programme start="20261016073000 +0000" stop="20261016093000 +0000" channel="Sportstars.id"><title>NH Cup 2026: Women</title></programme><programme start="20261016100000 +0000" stop="20261016120000 +0000" channel="Sportstars.id"><title>Women's NH Cup 2026/27: Hyundai Hillstate vs GS Caltex Kixx</title></programme><programme start="20261016133000 +0000" stop="20261016153000 +0000" channel="Sportstars.id"><title>NH Cup 2026: Women</title></programme><programme start="20261016153000 +0000" stop="20261016183000 +0000" channel="Sportstars.id"><title>The Championship Wimbledon</title></programme><programme start="20261016190000 +0000" stop="20261016210000 +0000" channel="Sportstars.id"><title>Best Of Badminton</title></programme><programme start="20261016210000 +0000" stop="20261016230000 +0000" channel="Sportstars.id"><title>The Championship Wimbledon</title></programme><programme start="20261017003000 +0000" stop="20261017023000 +0000" channel="Sportstars.id"><title>Pro Futsal League</title></programme><programme start="20261017023000 +0000" stop="20261017043000 +0000" channel="Sportstars.id"><title>NH Cup 2026: Women</title></programme><programme start="20261017043000 +0000" stop="20261017063000 +0000" channel="Sportstars.id"><title>NH Cup 2026: Women (L)</title></programme><programme start="20261017073000 +0000" stop="20261017093000 +0000" channel="Sportstars.id"><title>NH Cup 2026: Women (L)</title></programme><programme start="20261015110000 +0000" stop="20261015150000 +0000" channel="SpoTV 1.id"><title>Aramco Korea Championship</title></programme><programme start="20261015170000 +0000" stop="20261015175500 +0000" channel="SpoTV 1.id"><title>2026 Hyundai Archery World Cup</title></programme><programme start="20261015175500 +0000" stop="20261015200000 +0000" channel="SpoTV 1.id"><title>Roshn Saudi League 26/27: Al Ahli vs Al Nassr</title></programme><programme start="20261015200000 +0000" stop="20261015210000 +0000" channel="SpoTV 1.id"><title>2026 Hyundai Archery World Cup</title></programme><programme start="20261016041500 +0000" stop="20261016070000 +0000" channel="SpoTV 1.id"><title>2026 Hyundai Archery World Cup</title></programme><programme start="20261016145500 +0000" stop="20261016170000 +0000" channel="SpoTV 1.id"><title>Roshn Saudi League 26/27: Al Riyadh vs Al Hilal</title></programme><programme start="20261016170000 +0000" stop="20261016175500 +0000" channel="SpoTV 1.id"><title>2026 Hyundai Archery World Cup</title></programme><programme start="20261016175500 +0000" stop="20261016200000 +0000" channel="SpoTV 1.id"><title>Roshn Saudi League 26/27: Al Ittihad vs Al Shabab</title></programme><programme start="20261017035500 +0000" stop="20261017060000 +0000" channel="SpoTV 1.id"><title>A-League Men: AKL Vs MCY (L)</title></programme><programme start="20261017060000 +0000" stop="20261017080000 +0000" channel="SpoTV 1.id"><title>A-League Men: MAC Vs PER (L)</title></programme><programme start="20261017080000 +0000" stop="20261017100000 +0000" channel="SpoTV 1.id"><title>A-League Men: SYD Vs WSW</title></programme><programme start="20261015150500 +0000" stop="20261015160000 +0000" channel="SpoTV 2.id"><title>2026 Moto4 Northern Cup Assen</title></programme><programme start="20261015160000 +0000" stop="20261015170000 +0000" channel="SpoTV 2.id"><title>2026 Moto4 Northern Cup Assen</title></programme><programme start="20261016080000 +0000" stop="20261016083000 +0000" channel="SpoTV 2.id"><title>Maxi Yacht Rolex Cup 2026</title></programme><programme start="20261016093000 +0000" stop="20261016103000 +0000" channel="SpoTV 2.id"><title>2026 Moto4 British Cup Assen</title></programme><programme start="20261016103000 +0000" stop="20261016112500 +0000" channel="SpoTV 2.id"><title>2026 Moto4 British Cup Assen</title></programme><programme start="20261017080500 +0000" stop="20261017090500 +0000" channel="SpoTV 2.id"><title>2026 Idemitsu Moto4 Asia Cup</title></programme><programme start="20261015121500 +0000" stop="20261015141500 +0000" channel="V+ LIVE 2.id"><title>AFC Champions League Two 2026/27: Preah Khan Reach Svay (CAM) vs Shanghai Shenhua FC (CHN)</title></programme><programme start="20261015121000 +0000" stop="20261015141500 +0000" channel="V+ LIVE 3.id"><title>AFC Champions League Two 2026/27: Tampines Rovers FC (SGP) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261015121500 +0000" stop="20261015141500 +0000" channel="V+ LIVE.id"><title>AFC Champions League Two 2026/27: BG Pathum United (THA) vs Adelaide United FC (AUS)</title></programme><programme start="20261015120000 +0000" stop="20261015133000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261015133000 +0000" stop="20261015144500 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261015144500 +0000" stop="20261015160000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261015160000 +0000" stop="20261015171500 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261015171500 +0000" stop="20261015183000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261015183000 +0000" stop="20261015190000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261015190000 +0000" stop="20261015200000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261015200000 +0000" stop="20261015203000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261015203000 +0000" stop="20261015230000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261015230000 +0000" stop="20261016010000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261016010000 +0000" stop="20261016033000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261016033000 +0000" stop="20261016040000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261016040000 +0000" stop="20261016043000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261016043000 +0000" stop="20261016070000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261016070000 +0000" stop="20261016103000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261016103000 +0000" stop="20261016120000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261016120000 +0000" stop="20261016133000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261016133000 +0000" stop="20261016144500 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261016144500 +0000" stop="20261016160000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261016160000 +0000" stop="20261016171500 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261016171500 +0000" stop="20261016183000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261016183000 +0000" stop="20261016190000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261016190000 +0000" stop="20261016200000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261016200000 +0000" stop="20261016220000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261016220000 +0000" stop="20261017050000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261017050000 +0000" stop="20261017063000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261017063000 +0000" stop="20261017100000 +0000" channel="V+ Sports.id"><title>AFC Champions League Elite 2025/26: Johor Darul Ta'zim (MAS) vs FC Machida Zelvia (JPN)</title></programme><programme start="20261016220000 +0000" stop="20261016223000 +0000" channel="102"><title>Hiccup %26 Sneeze - EP 21</title></programme><programme start="20261016030000 +0000" stop="20261016040000 +0000" channel="105"><title>Namma Veetu Virundhu - EP 4</title></programme><programme start="20261016110000 +0000" stop="20261016120000 +0000" channel="105"><title>Namma Veetu Virundhu - EP 5</title></programme><programme start="20261015160000 +0000" stop="20261015193000 +0000" channel="201"><title>Davis Cup by Generali Qualifiers 2026 2nd Rd M1: Czechia vs USA</title></programme><programme start="20261016010000 +0000" stop="20261016050000 +0000" channel="201"><title>Reyes Cup 2026</title></programme><programme start="20261016120000 +0000" stop="20261016123000 +0000" channel="201"><title>Billie Jean King Cup by Gainbridge Finals 2026</title></programme><programme start="20261016160000 +0000" stop="20261016203000 +0000" channel="201"><title>Davis Cup by Generali Qualifiers 2026 2nd Rd M2: Czechia vs USA</title></programme><programme start="20261017013000 +0000" stop="20261017053000 +0000" channel="201"><title>Reyes Cup 2026</title></programme><programme start="20261017103000 +0000" stop="20261017104500 +0000" channel="201"><title>Badminton Weekly 2026</title></programme><programme start="20261017104500 +0000" stop="20261017110000 +0000" channel="201"><title>Badminton Weekly 2026</title></programme><programme start="20261015230000 +0000" stop="20261016000000 +0000" channel="202"><title>UFC Main Event 2026 UFC 311: Dvalishvili vs Nurmagomedov</title></programme><programme start="20261016000000 +0000" stop="20261016020000 +0000" channel="202"><title>Legends Football Match 2026 Game4Hope: Merseyside XI vs R.O.W XI</title></programme><programme start="20261016190000 +0000" stop="20261016200000 +0000" channel="202"><title>Supertri League 2026</title></programme><programme start="20261017010000 +0000" stop="20261017030000 +0000" channel="202"><title>Singapore Premier League 2026/27 Tanjong Pagar United FC vs Hougang United FC</title></programme><programme start="20261016023000 +0000" stop="20261016030000 +0000" channel="204"><title>ICC Women's T20 World Cup 2026 HLs</title></programme><programme start="20261016030000 +0000" stop="20261016071500 +0000" channel="204"><title>ICC Men's T20 World Cup 2026</title></programme><programme start="20261016071500 +0000" stop="20261016113000 +0000" channel="204"><title>ICC Men's T20 World Cup 2026</title></programme><programme start="20261016113000 +0000" stop="20261016154500 +0000" channel="204"><title>TATA Indian Premier League 2026</title></programme><programme start="20261017041500 +0000" stop="20261017044500 +0000" channel="204"><title>ICC Women's T20 World Cup 2026 HLs</title></programme><programme start="20261017044500 +0000" stop="20261017083000 +0000" channel="204"><title>ICC Men's T20 World Cup 2026</title></programme><programme start="20261017083000 +0000" stop="20261017123000 +0000" channel="204"><title>ICC Men's T20 World Cup 2026</title></programme><programme start="20261017123000 +0000" stop="20261017154500 +0000" channel="204"><title>TATA Indian Premier League 2026</title></programme><programme start="20261016110000 +0000" stop="20261016153000 +0000" channel="206"><title>Reyes Cup 2026</title></programme><programme start="20261017110000 +0000" stop="20261017153000 +0000" channel="206"><title>Reyes Cup 2026</title></programme><programme start="20261016070000 +0000" stop="20261016110000 +0000" channel="207"><title>VICTOR BWF World Junior Championships 2026: Semi-Final 1</title></programme><programme start="20261016110000 +0000" stop="20261016143000 +0000" channel="207"><title>VICTOR BWF World Junior Championships 2026: Semi-Final 2</title></programme><programme start="20261017100000 +0000" stop="20261017140000 +0000" channel="207"><title>VICTOR BWF World Junior Championships 2026: Finals (171026)</title></programme><programme start="20261015170000 +0000" stop="20261015180000 +0000" channel="209"><title>2026 Hyundai Archery World Cup, Final Saltillo (MEX)</title></programme><programme start="20261015180000 +0000" stop="20261015200000 +0000" channel="209"><title>Roshn Saudi League 26/27 MD 8 Al Fateh vs Al Ahli</title></programme><programme start="20261015200000 +0000" stop="20261015210000 +0000" channel="209"><title>2026 Hyundai Archery World Cup, Final Saltillo (MEX)</title></programme><programme start="20261016044500 +0000" stop="20261016073000 +0000" channel="209"><title>2026 Hyundai Archery World Cup, Final Saltillo (MEX)</title></programme><programme start="20261016073000 +0000" stop="20261016100000 +0000" channel="209"><title>2026 Hyundai Archery World Cup, Final Saltillo (MEX)</title></programme><programme start="20261016103000 +0000" stop="20261016143000 +0000" channel="209"><title>2026 Ladies European Tour: Aramco Korea Championship</title></programme><programme start="20261016170000 +0000" stop="20261016180000 +0000" channel="209"><title>2026 Hyundai Archery World Cup, Final Saltillo (MEX)</title></programme><programme start="20261016180000 +0000" stop="20261016200000 +0000" channel="209"><title>Roshn Saudi League 26/27 MD 8 Al Nassr vs Diriyah</title></programme><programme start="20261017035500 +0000" stop="20261017060000 +0000" channel="209"><title>A-League Men 26/27 MW 1 Auckland FC vs Melbourne City FC</title></programme><programme start="20261017060000 +0000" stop="20261017080000 +0000" channel="209"><title>A-League Men 26/27 MW 1 Macarthur FC vs Perth Glory</title></programme><programme start="20261017080000 +0000" stop="20261017100000 +0000" channel="209"><title>A-League Men 26/27 MW 1 Sydney FC vs Western Sydney Wanderers FC</title></programme><programme start="20261015160000 +0000" stop="20261015170000 +0000" channel="210"><title>2026 Moto4 Northern Cup Rd 7 Assen</title></programme><programme start="20261015231000 +0000" stop="20261016000000 +0000" channel="210"><title>2026 Moto4 Northern Cup Rd 7 Assen</title></programme><programme start="20261016093000 +0000" stop="20261016103000 +0000" channel="210"><title>2026 Moto4 British Cup Rd 7 Assen</title></programme><programme start="20261016103000 +0000" stop="20261016112500 +0000" channel="210"><title>2026 Moto4 British Cup Rd 7 Assen</title></programme><programme start="20261017080500 +0000" stop="20261017090500 +0000" channel="210"><title>2026 Idemitsu Moto4 Asia Cup, Rd 4 Indonesia</title></programme><programme start="20261015160000 +0000" stop="20261015162000 +0000" channel="211"><title>Roland Garros Match Highlights: 2024 Men's Singles Final Alcaraz v Zverev</title></programme><programme start="20261015162000 +0000" stop="20261015164000 +0000" channel="211"><title>Roland Garros Match Highlights: 2026 Women's Singles Final Andreeva v Chwalinska</title></programme><programme start="20261015164000 +0000" stop="20261015185500 +0000" channel="211"><title>Lech vs Leverkusen - MD2 UEFA Europa League 2026/27</title></programme><programme start="20261015185500 +0000" stop="20261015210000 +0000" channel="211"><title>Brighton vs Zalgiris - MD1 UEFA Conference League 2026/27</title></programme><programme start="20261015210000 +0000" stop="20261015212000 +0000" channel="211"><title>Roland Garros Match Highlights: 2026 Men's Singles Final Zverev v Cobolli</title></programme><programme start="20261015212000 +0000" stop="20261015225000 +0000" channel="211"><title>Premier Padel 2026: Malaga P1 Day 2 Match 5</title></programme><programme start="20261015225000 +0000" stop="20261016002000 +0000" channel="211"><title>Premier Padel 2026: Milan P1 Day 4 Match 5</title></programme><programme start="20261016002000 +0000" stop="20261016015000 +0000" channel="211"><title>Premier Padel 2026: Milan P1 Day 4 Match 6</title></programme><programme start="20261016015000 +0000" stop="20261016032000 +0000" channel="211"><title>Premier Padel 2026: Milan P1 Day 4 Match 7</title></programme><programme start="20261016032000 +0000" stop="20261016051000 +0000" channel="211"><title>CSKA Sofia vs Monaco - MD1 UEFA Conference League 2026/27</title></programme><programme start="20261016051000 +0000" stop="20261016070000 +0000" channel="211"><title>KuPS vs Trabzonspor - MD1 UEFA Conference League 2026/27</title></programme><programme start="20261016070000 +0000" stop="20261016083000 +0000" channel="211"><title>Premier Padel 2026: Milan P1 Day 5 QF Match 1</title></programme><programme start="20261016083000 +0000" stop="20261016100000 +0000" channel="211"><title>Premier Padel 2026: Milan P1 Day 5 QF Match 2</title></programme><programme start="20261016100000 +0000" stop="20261016113000 +0000" channel="211"><title>Premier Padel 2026: Milan P1 Day 5 QF Match 3</title></programme><programme start="20261016133000 +0000" stop="20261016152000 +0000" channel="211"><title>Brighton vs Zalgiris - MD1 UEFA Conference League 2026/27</title></programme><programme start="20261016152000 +0000" stop="20261016154000 +0000" channel="211"><title>Australian Open Match Highlights: 2026 Men's Singles SF 1 Alcaraz v Zverev</title></programme><programme start="20261016154000 +0000" stop="20261016160000 +0000" channel="211"><title>Australian Open Match Highlights: 2026 Men's Singles SF 2 Sinner v Djokovic</title></programme><programme start="20261016160000 +0000" stop="20261016173000 +0000" channel="211"><title>Premier Padel 2026: Milan P1 Day 5 QF Match 4</title></programme><programme start="20261016173000 +0000" stop="20261016180000 +0000" channel="211"><title>Premier Padel Highlights 2026</title></programme><programme start="20261016180000 +0000" stop="20261016182200 +0000" channel="211"><title>Australian Open Match Highlights: 2026 Women's Singles SF 1 Sabalenka v Svitolina</title></programme><programme start="20261016182200 +0000" stop="20261016203000 +0000" channel="211"><title>LaLiga 2 2026/27: Leganes vs Cordoba</title></programme><programme start="20261016203000 +0000" stop="20261016210000 +0000" channel="211"><title>HSBC SVNS World C'ships 2026: France vs New Zealand - Cup Final, Bordeaux - Men</title></programme><programme start="20261016210000 +0000" stop="20261016223000 +0000" channel="211"><title>Premier Padel 2026: Malaga P1 Day 2 Match 7</title></programme><programme start="20261016223000 +0000" stop="20261017000000 +0000" channel="211"><title>Premier Padel 2026: Malaga P1 Day 3 Match 2</title></programme><programme start="20261017000000 +0000" stop="20261017013000 +0000" channel="211"><title>Premier Padel 2026: Milan P1 Day 5 QF Match 5</title></programme><programme start="20261017013000 +0000" stop="20261017030000 +0000" channel="211"><title>Premier Padel 2026: Milan P1 Day 5 QF Match 6</title></programme><programme start="20261017033000 +0000" stop="20261017052000 +0000" channel="211"><title>CSKA Sofia vs Monaco - MD1 UEFA Conference League 2026/27</title></programme><programme start="20261017062000 +0000" stop="20261017064000 +0000" channel="211"><title>Roland Garros Match Highlights: 2026 Men's Singles Final Zverev v Cobolli</title></programme><programme start="20261017080000 +0000" stop="20261017081000 +0000" channel="211"><title>Premier Padel Match Highlights 2026</title></programme><programme start="20261017115000 +0000" stop="20261017120000 +0000" channel="211"><title>Premier Padel Match Highlights 2026</title></programme><programme start="20261017120000 +0000" stop="20261017133000 +0000" channel="211"><title>Laver Cup 2026: Doubles Day 3 Cobolli/Mensik v De Minaur/Fritz</title></programme><programme start="20261017142500 +0000" stop="20261017155500 +0000" channel="211"><title>Laver Cup 2026: Singles Day 3 Zverev v Tien</title></programme><programme start="20261017155500 +0000" stop="20261017180000 +0000" channel="211"><title>Super Lig 2026/27: Fenerbahce vs Alanyaspor</title></programme><programme start="20261015160000 +0000" stop="20261015164000 +0000" channel="213"><title>LaLiga Highlights 2026/27</title></programme><programme start="20261015164000 +0000" stop="20261015185500 +0000" channel="213"><title>Lyon vs Crystal Palace - MD2 UEFA Europa League 2026/27 (161026)</title></programme><programme start="20261015185500 +0000" stop="20261015210000 +0000" channel="213"><title>Bournemouth vs Sturm - MD2 UEFA Europa League 2026/27 (161026)</title></programme><programme start="20261015210000 +0000" stop="20261015225000 +0000" channel="213"><title>LaLiga 2026/27: Elche vs Celta Vigo</title></programme><programme start="20261015225000 +0000" stop="20261016004500 +0000" channel="213"><title>LaLiga 2026/27: Alaves vs Atletico Madrid</title></programme><programme start="20261016004500 +0000" stop="20261016012000 +0000" channel="213"><title>LaLiga Highlights 2026/27</title></programme><programme start="20261016025000 +0000" stop="20261016044000 +0000" channel="213"><title>LaLiga 2026/27: Real Betis vs Osasuna</title></programme><programme start="20261016044000 +0000" stop="20261016063000 +0000" channel="213"><title>LaLiga 2026/27: Real Sociedad vs Deportivo</title></programme><programme start="20261016073000 +0000" stop="20261016092500 +0000" channel="213"><title>LaLiga 2026/27: Levante vs Sevilla</title></programme><programme start="20261016113000 +0000" stop="20261016133000 +0000" channel="213"><title>LaLiga 2026/27: Barcelona vs Getafe</title></programme><programme start="20261016133000 +0000" stop="20261016135000 +0000" channel="213"><title>LaLiga Freetour 2026/27</title></programme><programme start="20261016135000 +0000" stop="20261016155000 +0000" channel="213"><title>LaLiga 2026/27: Real Madrid vs Villarreal</title></programme><programme start="20261016162000 +0000" stop="20261016163000 +0000" channel="213"><title>LaLiga Goals Galore 2024/25</title></programme><programme start="20261016163000 +0000" stop="20261016183000 +0000" channel="213"><title>GT World Challenge Europe 2026: Portimao Qualifying, Endurance Cup</title></programme><programme start="20261016183000 +0000" stop="20261016185500 +0000" channel="213"><title>LaLiga Goals Galore 2024/25</title></programme><programme start="20261016185500 +0000" stop="20261016210000 +0000" channel="213"><title>LaLiga 2026/27: Deportivo vs Levante</title></programme><programme start="20261016210000 +0000" stop="20261016230000 +0000" channel="213"><title>LFCTV 2026/27: Liverpool vs Man City</title></programme><programme start="20261017000000 +0000" stop="20261017020000 +0000" channel="213"><title>Le Mans Cup 2026: Portimao - Race</title></programme><programme start="20261017020000 +0000" stop="20261017035000 +0000" channel="213"><title>LaLiga 2 2026/27: Leganes vs Cordoba</title></programme><programme start="20261017042000 +0000" stop="20261017061000 +0000" channel="213"><title>LaLiga 2026/27: Deportivo vs Levante</title></programme><programme start="20261017091000 +0000" stop="20261017093000 +0000" channel="213"><title>LaLiga Freetour 2026/27</title></programme><programme start="20261017093000 +0000" stop="20261017100000 +0000" channel="213"><title>Le Mans Cup Highlights 2026</title></programme><programme start="20261017100000 +0000" stop="20261017115500 +0000" channel="213"><title>LaLiga 2026/27: Deportivo vs Levante</title></programme><programme start="20261017115500 +0000" stop="20261017141000 +0000" channel="213"><title>LaLiga 2026/27: Espanyol vs Atletico Madrid</title></programme><programme start="20261017141000 +0000" stop="20261017162500 +0000" channel="213"><title>LaLiga 2026/27: Villarreal vs Elche</title></programme><programme start="20261015163000 +0000" stop="20261015164000 +0000" channel="214"><title>UEL Classic Matches Wolfsburg vs Inter (2014/15)</title></programme><programme start="20261015164000 +0000" stop="20261015185500 +0000" channel="214"><title>Salzburg vs Milan - MD2 UEFA Europa League 2026/27</title></programme><programme start="20261015185500 +0000" stop="20261015210000 +0000" channel="214"><title>Celta Vigo vs Juventus - MD2 UEFA Europa League 2026/27</title></programme><programme start="20261015210000 +0000" stop="20261015220000 +0000" channel="214"><title>FEI World Championships 2026</title></programme><programme start="20261015230000 +0000" stop="20261016005000 +0000" channel="214"><title>Sparta Prague vs Lillestrom - MD2 UEFA Europa League 2026/27</title></programme><programme start="20261016005000 +0000" stop="20261016024000 +0000" channel="214"><title>Union Saint-Gilloise vs Real Sociedad - MD2 UEFA Europa League 2026/27</title></programme><programme start="20261016024000 +0000" stop="20261016043000 +0000" channel="214"><title>Torreense vs Sunderland - MD2 UEFA Europa League 2026/27</title></programme><programme start="20261016043000 +0000" stop="20261016062000 +0000" channel="214"><title>Marseille vs Olympiacos - MD2 UEFA Europa League 2026/27</title></programme><programme start="20261016062000 +0000" stop="20261016081000 +0000" channel="214"><title>Benfica vs Celtic - MD2 UEFA Europa League 2026/27</title></programme><programme start="20261016081000 +0000" stop="20261016100000 +0000" channel="214"><title>Hoffenheim vs Besiktas - MD2 UEFA Europa League 2026/27</title></programme><programme start="20261016103000 +0000" stop="20261016122000 +0000" channel="214"><title>Lyon vs Crystal Palace - MD2 UEFA Europa League 2026/27</title></programme><programme start="20261016122000 +0000" stop="20261016123000 +0000" channel="214"><title>UCL Classic Matches Real Madrid vs Tottenham (2010/11)</title></programme><programme start="20261016123000 +0000" stop="20261016133000 +0000" channel="214"><title>UEFA Europa/Conference League Highlights 2026/27</title></programme><programme start="20261016163000 +0000" stop="20261016182500 +0000" channel="214"><title>Bundesliga 2 2026/27 (Join in Progress): Holstein Kiel vs Hertha</title></programme><programme start="20261016182500 +0000" stop="20261016203000 +0000" channel="214"><title>Bundesliga 2026/27: Frankfurt vs Cologne</title></programme><programme start="20261017010000 +0000" stop="20261017020000 +0000" channel="214"><title>UEFA Europa/Conference League Highlights 2026/27</title></programme><programme start="20261017023000 +0000" stop="20261017042000 +0000" channel="214"><title>Lens vs Sporting - MD2 UEFA Champions League 2026/27</title></programme><programme start="20261017042000 +0000" stop="20261017061000 +0000" channel="214"><title>Sabah FK vs Slavia Prague - MD2 UEFA Champions League 2026/27</title></programme><programme start="20261017061000 +0000" stop="20261017080000 +0000" channel="214"><title>Arsenal vs Lille - MD2 UEFA Champions League 2026/27</title></programme><programme start="20261017080000 +0000" stop="20261017090000 +0000" channel="214"><title>UEFA Europa/Conference League Highlights 2026/27</title></programme><programme start="20261017090000 +0000" stop="20261017105000 +0000" channel="214"><title>Bundesliga 2026/27: Frankfurt vs Cologne</title></programme><programme start="20261017105000 +0000" stop="20261017130000 +0000" channel="214"><title>Bundesliga 2 2026/27: Wolfsburg vs Heidenheim 1846</title></programme><programme start="20261017130000 +0000" stop="20261017131000 +0000" channel="214"><title>Bundesliga Club Classic Archive: Bayern vs Leverkusen - 2023/24</title></programme><programme start="20261017131000 +0000" stop="20261017132000 +0000" channel="214"><title>Bundesliga Club Classic Archive: Bayern vs Darmstadt - 2023/24</title></programme><programme start="20261017132000 +0000" stop="20261017153000 +0000" channel="214"><title>Bundesliga 2026/27: FC Union vs Dortmund</title></programme><programme start="20261015160000 +0000" stop="20261015163300 +0000" channel="217"><title>CPL 2026 Highlights: M30: GAW vs ABF</title></programme><programme start="20261015163300 +0000" stop="20261015165900 +0000" channel="217"><title>TATA IPL 2026 Highlights: M65: KKR vs MI</title></programme><programme start="20261015165900 +0000" stop="20261015171600 +0000" channel="217"><title>MLC 2026 Highlights: M22: SFU vs MINY</title></programme><programme start="20261015171600 +0000" stop="20261015174300 +0000" channel="217"><title>TATA IPL 2026 Highlights: M68: LSG vs PBKS</title></programme><programme start="20261015174300 +0000" stop="20261015181000 +0000" channel="217"><title>New Zealand tour of West Indies, 2026 Highlights: WI vs NZ, 1st ODI</title></programme><programme start="20261015181000 +0000" stop="20261015183200 +0000" channel="217"><title>CPL 2026 Highlights: M31: GAW vs SLK</title></programme><programme start="20261015183200 +0000" stop="20261015190000 +0000" channel="217"><title>TATA IPL 2026 Highlights: M66: GT vs CSK</title></programme><programme start="20261015190000 +0000" stop="20261015192300 +0000" channel="217"><title>MLC 2026 Highlights: M25: MINY vs SO</title></programme><programme start="20261015192300 +0000" stop="20261015194800 +0000" channel="217"><title>CPL 2026 Highlights: M32: BT vs STKNP</title></programme><programme start="20261015194800 +0000" stop="20261015201700 +0000" channel="217"><title>TATA IPL 2026 Highlights: M67: SRH vs RCB</title></programme><programme start="20261015201700 +0000" stop="20261015204500 +0000" channel="217"><title>MLC 2026 Highlights: M24: WF vs LAKR</title></programme><programme start="20261015211600 +0000" stop="20261015215600 +0000" channel="217"><title>Afghanistan tour of India, 2026 Highlights: IND vs AFG, 2nd ODI</title></programme><programme start="20261015215600 +0000" stop="20261015222400 +0000" channel="217"><title>TATA IPL 2026 Highlights: FINAL: RCB vs GT</title></programme><programme start="20261015222400 +0000" stop="20261015225700 +0000" channel="217"><title>MLC 2026 Highlights: C: SFU vs WF</title></programme><programme start="20261015225700 +0000" stop="20261015232500 +0000" channel="217"><title>MLC 2026 Highlights: Final: LAKR vs WF</title></programme><programme start="20261015232500 +0000" stop="20261015235400 +0000" channel="217"><title>TATA IPL 2026 Highlights: M67: SRH vs RCB</title></programme><programme start="20261016001800 +0000" stop="20261016004200 +0000" channel="217"><title>Sri Lanka tour of Pakistan, 2026 Highlights: PAK vs SL, 2nd T20I</title></programme><programme start="20261016004200 +0000" stop="20261016011600 +0000" channel="217"><title>West Indies tour of India, 2026 Highlights: IND vs WI, 2nd ODI</title></programme><programme start="20261016011600 +0000" stop="20261016014000 +0000" channel="217"><title>Sri Lanka tour of Pakistan, 2026 Highlights: PAK vs SL, 3rd T20I</title></programme><programme start="20261016014000 +0000" stop="20261016020400 +0000" channel="217"><title>West Indies tour of India, 2026 Highlights: IND vs WI, 4th T20I</title></programme><programme start="20261016020400 +0000" stop="20261016023300 +0000" channel="217"><title>CPL 2026 Highlights: Q2: JAK vs GAW</title></programme><programme start="20261016023300 +0000" stop="20261016030700 +0000" channel="217"><title>England tour of Sri Lanka, 2026 Highlights: ENG vs SL, 3rd ODI</title></programme><programme start="20261016030700 +0000" stop="20261016033000 +0000" channel="217"><title>MLC 2026 Highlights: M29: MINY vs WF</title></programme><programme start="20261016033000 +0000" stop="20261016035400 +0000" channel="217"><title>West Indies tour of India, 2026 Highlights: IND vs WI, 2nd T20I</title></programme><programme start="20261016035400 +0000" stop="20261016041800 +0000" channel="217"><title>Sri Lanka tour of Pakistan, 2026 Highlights: PAK vs SL, 2nd T20I</title></programme><programme start="20261016041800 +0000" stop="20261016044400 +0000" channel="217"><title>MLC 2026 Highlights: M26: SFU vs LAKR</title></programme><programme start="20261016051600 +0000" stop="20261016054400 +0000" channel="217"><title>Afghanistan tour of India, 2026 Highlights: IND vs AFG, 3rd ODI</title></programme><programme start="20261016054400 +0000" stop="20261016060800 +0000" channel="217"><title>Sri Lanka tour of Pakistan, 2026 Highlights: PAK vs SL, 3rd T20I</title></programme><programme start="20261016060800 +0000" stop="20261016064200 +0000" channel="217"><title>West Indies tour of India, 2026 Highlights: IND vs WI, 3rd ODI</title></programme><programme start="20261016064200 +0000" stop="20261016070600 +0000" channel="217"><title>MLC 2026 Highlights: M12: MINY vs LAKR</title></programme><programme start="20261016070600 +0000" stop="20261016073100 +0000" channel="217"><title>TATA IPL 2026 Highlights: M28: KKR vs RR</title></programme><programme start="20261016073100 +0000" stop="20261016075500 +0000" channel="217"><title>West Indies tour of India, 2026 Highlights: IND vs WI, 3rd T20I</title></programme><programme start="20261016075500 +0000" stop="20261016082000 +0000" channel="217"><title>CPL 2026 Highlights: M5: SLK vs STKNP</title></programme><programme start="20261016082000 +0000" stop="20261016101000 +0000" channel="217"><title>India tour of Sri Lanka, 2026 Highlights: SL vs IND, 1st Test</title></programme><programme start="20261016101000 +0000" stop="20261016103500 +0000" channel="217"><title>TATA IPL 2026 Highlights: M33: MI vs CSK</title></programme><programme start="20261016103500 +0000" stop="20261016110000 +0000" channel="217"><title>MLC 2026 Highlights: M30: TSK vs LAKR</title></programme><programme start="20261016110000 +0000" stop="20261016113400 +0000" channel="217"><title>West Indies tour of India, 2026 Highlights: IND vs WI, 1st ODI</title></programme><programme start="20261016113400 +0000" stop="20261016115800 +0000" channel="217"><title>Sri Lanka tour of Pakistan, 2026 Highlights: PAK vs SL, 3rd T20I</title></programme><programme start="20261016115800 +0000" stop="20261016122200 +0000" channel="217"><title>West Indies tour of India, 2026 Highlights: IND vs WI, 4th T20I</title></programme><programme start="20261016122200 +0000" stop="20261016124900 +0000" channel="217"><title>Afghanistan tour of India, 2026 Highlights: IND vs AFG, 1st ODI</title></programme><programme start="20261016124900 +0000" stop="20261016132000 +0000" channel="217"><title>West Indies tour of India, 2026 Highlights: IND vs WI, 3rd ODI</title></programme><programme start="20261016132000 +0000" stop="20261016173000 +0000" channel="217"><title>Zimbabwe Women tour of India, 2026 LIVE: INDW vs ZIMW, 1st T20I</title></programme><programme start="20261016173000 +0000" stop="20261016175900 +0000" channel="217"><title>CPL 2026 Highlights: M32: BT vs STKNP</title></programme><programme start="20261016175900 +0000" stop="20261016181900 +0000" channel="217"><title>MLC 2026 Highlights: M22: SFU vs MINY</title></programme><programme start="20261016181900 +0000" stop="20261016184800 +0000" channel="217"><title>TATA IPL 2026 Highlights: M31: SRH vs DC</title></programme><programme start="20261016184800 +0000" stop="20261016190800 +0000" channel="217"><title>CPL 2026 Highlights: M35: BT vs GAW</title></programme><programme start="20261016190800 +0000" stop="20261016192900 +0000" channel="217"><title>MLC 2026 Highlights: M20: LAKR vs MINY</title></programme><programme start="20261016192900 +0000" stop="20261016195800 +0000" channel="217"><title>Afghanistan tour of India, 2026 Highlights: IND vs AFG, 1st ODI</title></programme><programme start="20261016195800 +0000" stop="20261016202100 +0000" channel="217"><title>CPL 2026 Highlights: M34: BT vs JAK</title></programme><programme start="20261016202100 +0000" stop="20261016214300 +0000" channel="217"><title>Afghanistan tour of India, 2026 Highlights: IND vs AFG, Only Test</title></programme><programme start="20261016214300 +0000" stop="20261016221500 +0000" channel="217"><title>TATA IPL 2026 Highlights: M29: PBKS vs LSG</title></programme><programme start="20261016221500 +0000" stop="20261016223700 +0000" channel="217"><title>MLC 2026 Highlights: M18: LAKR vs TSK</title></programme><programme start="20261016223700 +0000" stop="20261016231900 +0000" channel="217"><title>MLC 2026 Highlights: E: WF vs MINY</title></programme><programme start="20261016235000 +0000" stop="20261017002400 +0000" channel="217"><title>West Indies tour of India, 2026 Highlights: IND vs WI, 3rd ODI</title></programme><programme start="20261017002400 +0000" stop="20261017004800 +0000" channel="217"><title>Sri Lanka tour of Pakistan, 2026 Highlights: PAK vs SL, 1st T20I</title></programme><programme start="20261017004800 +0000" stop="20261017011200 +0000" channel="217"><title>Zimbabwe Women tour of India, 2026 Highlights: INDW vs ZIMW, 1st T20I</title></programme><programme start="20261017011200 +0000" stop="20261017013600 +0000" channel="217"><title>Sri Lanka tour of Pakistan, 2026 Highlights: PAK vs SL, 3rd T20I</title></programme><programme start="20261017013600 +0000" stop="20261017020000 +0000" channel="217"><title>West Indies tour of India, 2026 Highlights: IND vs WI, 4th T20I</title></programme><programme start="20261017020000 +0000" stop="20261017023000 +0000" channel="217"><title>CPL 2026 Highlights: Final: ABF vs JAK</title></programme><programme start="20261017023000 +0000" stop="20261017030400 +0000" channel="217"><title>West Indies tour of India, 2026 Highlights: IND vs WI, 2nd ODI</title></programme><programme start="20261017033600 +0000" stop="20261017040000 +0000" channel="217"><title>Sri Lanka tour of Pakistan, 2026 Highlights: PAK vs SL, 2nd T20I</title></programme><programme start="20261017040000 +0000" stop="20261017043200 +0000" channel="217"><title>MLC 2026 Highlights: C: SFU vs WF</title></programme><programme start="20261017043200 +0000" stop="20261017045600 +0000" channel="217"><title>West Indies tour of India, 2026 Highlights: IND vs WI, 3rd T20I</title></programme><programme start="20261017045600 +0000" stop="20261017052000 +0000" channel="217"><title>Sri Lanka tour of Pakistan, 2026 Highlights: PAK vs SL, 3rd T20I</title></programme><programme start="20261017052000 +0000" stop="20261017055400 +0000" channel="217"><title>West Indies tour of India, 2026 Highlights: IND vs WI, 3rd ODI</title></programme><programme start="20261017055400 +0000" stop="20261017061800 +0000" channel="217"><title>MLC 2026 Highlights: M12: MINY vs LAKR</title></programme><programme start="20261017061800 +0000" stop="20261017064300 +0000" channel="217"><title>TATA IPL 2026 Highlights: M28: KKR vs RR</title></programme><programme start="20261017064300 +0000" stop="20261017070700 +0000" channel="217"><title>West Indies tour of India, 2026 Highlights: IND vs WI, 3rd T20I</title></programme><programme start="20261017070700 +0000" stop="20261017073200 +0000" channel="217"><title>CPL 2026 Highlights: M5: SLK vs STKNP</title></programme><programme start="20261017073200 +0000" stop="20261017092200 +0000" channel="217"><title>India tour of Sri Lanka, 2026 Highlights: SL vs IND, 1st Test</title></programme><programme start="20261017092200 +0000" stop="20261017094700 +0000" channel="217"><title>TATA IPL 2026 Highlights: M33: MI vs CSK</title></programme><programme start="20261017094700 +0000" stop="20261017101100 +0000" channel="217"><title>MLC 2026 Highlights: M30: TSK vs LAKR</title></programme><programme start="20261017101100 +0000" stop="20261017103500 +0000" channel="217"><title>Sri Lanka tour of Pakistan, 2026 Highlights: PAK vs SL, 3rd T20I</title></programme><programme start="20261017103500 +0000" stop="20261017105700 +0000" channel="217"><title>West Indies tour of India, 2026 Highlights: IND vs WI, 4th T20I</title></programme><programme start="20261017105700 +0000" stop="20261017111900 +0000" channel="217"><title>CPL 2026 Highlights: M19: TKR vs BT</title></programme><programme start="20261017111900 +0000" stop="20261017115000 +0000" channel="217"><title>West Indies tour of India, 2026 Highlights: IND vs WI, 3rd ODI</title></programme><programme start="20261017132000 +0000" stop="20261017173000 +0000" channel="217"><title>West Indies tour of India, 2026 LIVE: IND vs WI, 5th T20I</title></programme><programme start="20261017103000 +0000" stop="20261017112000 +0000" channel="221"><title>PREMIER LEAGUE LIVE</title></programme><programme start="20261017112000 +0000" stop="20261017135000 +0000" channel="221"><title>Everton v Chelsea (MW07) (171026)</title></programme><programme start="20261017135000 +0000" stop="20261017162000 +0000" channel="221"><title>Brentford v Liverpool (MW07)</title></programme><programme start="20261017050000 +0000" stop="20261017070000 +0000" channel="222"><title>Coventry City vs Newcastle United (MW06) - EP 60</title></programme><programme start="20261017090000 +0000" stop="20261017105500 +0000" channel="222"><title>Coventry City vs Newcastle United (MW06) - EP 60</title></programme><programme start="20261017112500 +0000" stop="20261017132000 +0000" channel="222"><title>Liverpool vs Manchester City (MW06) - EP 59</title></programme><programme start="20261017135000 +0000" stop="20261017160000 +0000" channel="222"><title>Manchester City vs Ipswich Town (MW07)</title></programme><programme start="20261017135000 +0000" stop="20261017160000 +0000" channel="223"><title>Fulham vs Hull City (MW07)</title></programme><programme start="20261017135000 +0000" stop="20261017160000 +0000" channel="224"><title>Brentford vs Liverpool (MW07)</title></programme><programme start="20261015160000 +0000" stop="20261015170000 +0000" channel="241"><title>FIGHT SPORTS MMA Yannick Bahati vs. Dricus du Plessis</title></programme><programme start="20261015170000 +0000" stop="20261015190000 +0000" channel="241"><title>MEGA Fights Andre Ward vs. Chad Dawson</title></programme><programme start="20261015200000 +0000" stop="20261015203000 +0000" channel="241"><title>KNOCKOUTS! Floyd Mayweather, Jr. vs. Miguel Cotto</title></programme><programme start="20261015213000 +0000" stop="20261015220000 +0000" channel="241"><title>MMA:30</title></programme><programme start="20261015220000 +0000" stop="20261015230000 +0000" channel="241"><title>FIGHT SPORTS MMA Yannick Bahati vs. Dricus du Plessis</title></programme><programme start="20261015230000 +0000" stop="20261016010000 +0000" channel="241"><title>MEGA Fights Andre Ward vs. Chad Dawson</title></programme><programme start="20261016020000 +0000" stop="20261016023000 +0000" channel="241"><title>KNOCKOUTS! Floyd Mayweather, Jr. vs. Miguel Cotto</title></programme><programme start="20261016033000 +0000" stop="20261016040000 +0000" channel="241"><title>MMA:30</title></programme><programme start="20261016040000 +0000" stop="20261016050000 +0000" channel="241"><title>FIGHT SPORTS MMA Yannick Bahati vs. Dricus du Plessis</title></programme><programme start="20261016050000 +0000" stop="20261016070000 +0000" channel="241"><title>MEGA Fights Andre Ward vs. Chad Dawson</title></programme><programme start="20261016080000 +0000" stop="20261016083000 +0000" channel="241"><title>KNOCKOUTS! Floyd Mayweather, Jr. vs. Miguel Cotto</title></programme><programme start="20261016093000 +0000" stop="20261016100000 +0000" channel="241"><title>MMA:30</title></programme><programme start="20261016100000 +0000" stop="20261016110000 +0000" channel="241"><title>FIGHT SPORTS MMA Yannick Bahati vs. Dricus du Plessis</title></programme><programme start="20261016110000 +0000" stop="20261016133000 +0000" channel="241"><title>MEGA Fights Gennady Golovkin vs. Grzegorz Proska</title></programme><programme start="20261016140000 +0000" stop="20261016143000 +0000" channel="241"><title>KNOCKOUTS! Juan Manuel Marquez vs. Michael Katsidis</title></programme><programme start="20261016160000 +0000" stop="20261016170000 +0000" channel="241"><title>FIGHT SPORTS MMA Themba Gorimbo vs. Luke Michael</title></programme><programme start="20261016170000 +0000" stop="20261016193000 +0000" channel="241"><title>MEGA Fights Gennady Golovkin vs. Grzegorz Proska</title></programme><programme start="20261016200000 +0000" stop="20261016203000 +0000" channel="241"><title>KNOCKOUTS! Juan Manuel Marquez vs. Michael Katsidis</title></programme><programme start="20261016220000 +0000" stop="20261016230000 +0000" channel="241"><title>FIGHT SPORTS MMA Themba Gorimbo vs. Luke Michael</title></programme><programme start="20261016230000 +0000" stop="20261017013000 +0000" channel="241"><title>MEGA Fights Gennady Golovkin vs. Grzegorz Proska</title></programme><programme start="20261017020000 +0000" stop="20261017023000 +0000" channel="241"><title>KNOCKOUTS! Juan Manuel Marquez vs. Michael Katsidis</title></programme><programme start="20261017040000 +0000" stop="20261017050000 +0000" channel="241"><title>FIGHT SPORTS MMA Themba Gorimbo vs. Luke Michael</title></programme><programme start="20261017050000 +0000" stop="20261017073000 +0000" channel="241"><title>MEGA Fights Gennady Golovkin vs. Grzegorz Proska</title></programme><programme start="20261017080000 +0000" stop="20261017083000 +0000" channel="241"><title>KNOCKOUTS! Juan Manuel Marquez vs. Michael Katsidis</title></programme><programme start="20261017100000 +0000" stop="20261017110000 +0000" channel="241"><title>FIGHT SPORTS MMA Themba Gorimbo vs. Luke Michael</title></programme><programme start="20261017110000 +0000" stop="20261017130000 +0000" channel="241"><title>WCCB Sebastian Fundora vs. Keith Thurman</title></programme><programme start="20261017133000 +0000" stop="20261017140000 +0000" channel="241"><title>Wide World of Fights Adonis Stevenson vs. Jesus Gonzales</title></programme><programme start="20261017140000 +0000" stop="20261017143000 +0000" channel="241"><title>KNOCKOUTS! Shane Mosley vs. Floyd Mayweather, Jr.</title></programme><programme start="20261015151000 +0000" stop="20261015170000 +0000" channel="247"><title>RLWC26 Australia v New Zealand</title></programme><programme start="20261015170000 +0000" stop="20261015185000 +0000" channel="247"><title>Bledisloe Cup New Zealand v Australia</title></programme><programme start="20261015185000 +0000" stop="20261015204000 +0000" channel="247"><title>United Rugby Championship Glasgow Warriors v Connacht</title></programme><programme start="20261015214000 +0000" stop="20261015233000 +0000" channel="247"><title>Gallagher Premiership Leicester v Gloucester</title></programme><programme start="20261015233000 +0000" stop="20261016012000 +0000" channel="247"><title>Gallagher Premiership Northampton v Bath</title></programme><programme start="20261016012000 +0000" stop="20261016015000 +0000" channel="247"><title>5 and 6 Nations Classics 1999 - Wales v England</title></programme><programme start="20261016025000 +0000" stop="20261016044000 +0000" channel="247"><title>United Rugby Championship Dragons v Ospreys</title></programme><programme start="20261016044000 +0000" stop="20261016063000 +0000" channel="247"><title>RLWC26 Australia v New Zealand</title></programme><programme start="20261016063000 +0000" stop="20261016084000 +0000" channel="247"><title>LIVE RLWC26 LIVE Samoa v France</title></programme><programme start="20261016084000 +0000" stop="20261016085000 +0000" channel="247"><title>Premier Sports Extra</title></programme><programme start="20261016085000 +0000" stop="20261016110000 +0000" channel="247"><title>LIVE Women's RLWC 2026 LIVE Australia v Samoa</title></programme><programme start="20261016110000 +0000" stop="20261016113000 +0000" channel="247"><title>Gallagher Premiership</title></programme><programme start="20261016113000 +0000" stop="20261016132000 +0000" channel="247"><title>United Rugby Championship Stormers v Sharks</title></programme><programme start="20261016132000 +0000" stop="20261016151000 +0000" channel="247"><title>Women's RLWC 2026 Australia v Samoa</title></programme><programme start="20261016151000 +0000" stop="20261016170000 +0000" channel="247"><title>RLWC26 Samoa v France</title></programme><programme start="20261016173000 +0000" stop="20261016180000 +0000" channel="247"><title>Gallagher Premiership</title></programme><programme start="20261016180000 +0000" stop="20261016213000 +0000" channel="247"><title>LIVE Champions Cup LIVE Gloucester v Bordeaux Begles</title></programme><programme start="20261016220000 +0000" stop="20261016235000 +0000" channel="247"><title>RLWC26 Australia v New Zealand</title></programme><programme start="20261016235000 +0000" stop="20261017001000 +0000" channel="247"><title>Premier Sports Extra</title></programme><programme start="20261017001000 +0000" stop="20261017020000 +0000" channel="247"><title>EPCR Challenge Cup Edinburgh v Toulon</title></programme><programme start="20261017020000 +0000" stop="20261017041000 +0000" channel="247"><title>LIVE Women's RLWC 2026 LIVE Papua New Guinea v France</title></programme><programme start="20261017041000 +0000" stop="20261017042000 +0000" channel="247"><title>Premier Sports Extra</title></programme><programme start="20261017042000 +0000" stop="20261017045000 +0000" channel="247"><title>5 and 6 Nations Classics 2008 - Italy v Scotland</title></programme><programme start="20261017045000 +0000" stop="20261017070000 +0000" channel="247"><title>LIVE Bledisloe Cup LIVE Australia v New Zealand</title></programme><programme start="20261017083000 +0000" stop="20261017113000 +0000" channel="247"><title>LIVE RLWC26 LIVE England v Tonga</title></programme><programme start="20261017113000 +0000" stop="20261017140500 +0000" channel="247"><title>LIVE Champions Cup LIVE Sale v Glasgow Warriors</title></programme><programme start="20261017140500 +0000" stop="20261017162000 +0000" channel="247"><title>LIVE Champions Cup LIVE Stormers v Bristol</title></programme><programme start="20261017121500 +0000" stop="20261017134500 +0000" channel="316"><title>Lego Dc Comics Super Heroes: Justice League: Attack Of The Legion Of Doom! - EP 1</title></programme><programme start="20261017020000 +0000" stop="20261017040000 +0000" channel="447"><title>AFLW Round 10 - Adelaide Crows v Gold Coast Suns</title></programme><programme start="20261017040000 +0000" stop="20261017060000 +0000" channel="447"><title>AFLW Round 10 - Carlton v Western Bulldogs</title></programme><programme start="20261017120000 +0000" stop="20261017140000 +0000" channel="611"><title>Justice League</title></programme><programme start="20261017073000 +0000" stop="20261017080000 +0000" channel="707"><title>Michelin Le Mans Cup</title></programme><programme start="20261015170000 +0000" stop="20261015173000 +0000" channel="805"><title>Summary Of Press (15/10/26)</title></programme><programme start="20261015210000 +0000" stop="20261015213000 +0000" channel="805"><title>Summary Of Press (15/10/26)</title></programme><programme start="20261016033000 +0000" stop="20261016040000 +0000" channel="805"><title>Summary Of Press (16/10/26)</title></programme><programme start="20261016093000 +0000" stop="20261016100000 +0000" channel="805"><title>Summary Of Press (16/10/26)</title></programme><programme start="20261016170000 +0000" stop="20261016173000 +0000" channel="805"><title>Summary Of Press (16/10/26)</title></programme><programme start="20261016210000 +0000" stop="20261016213000 +0000" channel="805"><title>Summary Of Press (16/10/26)</title></programme><programme start="20261017045000 +0000" stop="20261017070000 +0000" channel="811"><title>Japan Golf Tour Championship 2026: Third Day (End time subject to change.)</title></programme><programme start="20261017143000 +0000" stop="20261017153000 +0000" channel="811"><title>JAPAN CUP 2026 Cheerleading Championships Part 1</title></programme><programme start="20261017153000 +0000" stop="20261017163000 +0000" channel="811"><title>JAPAN CUP 2026 Cheerleading Championships Part 2</title></programme></tv><?xml version='1.0' encoding='utf-8'?>
